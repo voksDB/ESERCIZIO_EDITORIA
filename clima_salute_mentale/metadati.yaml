@@ -9,14 +9,15 @@ categories:
   [salute mentale,cambiamento climatico]
 tags: 
  [clima, benessere psicologico, adattamento, resilienza]
-
 abstract: >
-  Il cambiamento climatico influisce sulla salute mentale attraverso stress ambientale, insicurezza alimentare e condizioni socio-economiche precarie. La sintesi presenta tre studi principali:
+  Il cambiamento climatico influisce sulla salute mentale attraverso stress ambientale, insicurezza alimentare e condizioni socio-economiche precarie. questo articolo presenta tre studi principali:
   1. Navigating psychosocial dimensions, che esamina come le strategie di adattamento influenzino il benessere.
   2. Strategies for resilience, che propone interventi per mitigare fame e salute mentale.
   3. Locating the built environment, una revisione globale sull'impatto dell'ambiente costruito sulla salute mentale.
 bibliography: "bibliografia.bib"
+
 doi: [https://doi.org/10.1016/j.jafr.2025.102023, https://doi.org/10.1016/j.jafr.2025.102024, https://doi.org/10.1136/bmjopen-2023-093222]
+
 links:
   - title: "Navigating psychosocial dimensions"
     url: "https://www.sciencedirect.com/science/article/pii/S1877343524000800"
