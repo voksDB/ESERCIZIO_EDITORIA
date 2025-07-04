@@ -1,7 +1,6 @@
-# Salute mentale e cambiamento climatico: impatti e strategie di adattamento
-
 ## Il ruolo dell'ambiente costruito nei modelli empirici su cambiamento climatico e salute mentale
 
+📄 Articolo originale: 
 [Navigating Psychosocial Dimensions](https://www.sciencedirect.com/science/article/pii/S1877343524000800)
 
 
@@ -37,9 +36,11 @@ resilienza collettiva.
 
 [@heath2025navigating]
 
+____
 
 ## Strategie di resilienza per mitigare gli effetti del cambiamento climatico sulla salute mentale
 
+📄 Articolo originale: 
 [Strategies for Resilience](https://www.sciencedirect.com/science/article/pii/S2666154325003941)
 
 
@@ -70,9 +71,11 @@ benessere mentale delle comunità esposte ai cambiamenti climatici.
 
 [@mezieobi2025strategies]
 
+____
 
 ## Impatto psicologico del cambiamento climatico: strategie di adattamento e benessere
 
+📄 Articolo originale: 
 [Locating the built environment](https://www.sciencedirect.com/science/article/pii/S1877343524000800)
 
 Questo articolo presenta il protocollo per una revisione sistematica
@@ -98,3 +101,7 @@ che considerino sia i fattori ambientali che quelli sociali nella lotta
 agli effetti negativi del cambiamento climatico sulla salute mentale.
 
  [@mccall2025locating]
+
+_____
+
+
