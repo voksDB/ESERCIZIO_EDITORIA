@@ -1,0 +1,10 @@
+Navigating psychosocial dimensions: understanding the intersections of adaptation strategies and well-being outcomes in the context of climate change: 
+https://www.sciencedirect.com/science/article/pii/S1877343524000800
+
+Strategies for resilience: Mitigating the effects of climate change on hunger and mental health
+https://www.sciencedirect.com/science/article/pii/S2666154325003941
+
+Locating the built environment within existing empirical models of climate change and mental health: protocol for a global systematic scoping review
+https://bmjopen.bmj.com/content/15/4/e093222
+
+pandoc sintesi_1.md sintesi_2.md sintesi_3.md --from markdown --to markdown --bibliography=bibliografia.bib --citeproc -o --metadata-file=metadati.yaml articolo_completo.md

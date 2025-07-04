@@ -1,0 +1,2376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1-3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">sustainability</journal-id>
+      <journal-title-group>
+        <journal-title>Sustainability</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Sustainability</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="pubmed">Sustainability</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2071-1050</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/su17104681</article-id>
+      <article-id pub-id-type="publisher-id">sustainability-17-04681</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sustainability Assessment of Electric Vehicles for Enhancing Energy Security and Reducing Emissions in Indonesia</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0007-3363-9563</contrib-id>
+          <name>
+            <surname>Jolodoro</surname>
+            <given-names>Glenn</given-names>
+          </name>
+          <xref rid="af1-sustainability-17-04681" ref-type="aff">1</xref>
+          <xref rid="c1-sustainability-17-04681" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0470-979X</contrib-id>
+          <name>
+            <surname>Perdana</surname>
+            <given-names>Tomy</given-names>
+          </name>
+          <xref rid="af2-sustainability-17-04681" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5893-0222</contrib-id>
+          <name>
+            <surname>Withaningsih</surname>
+            <given-names>Susanti</given-names>
+          </name>
+          <xref rid="af1-sustainability-17-04681" ref-type="aff">1</xref>
+          <xref rid="af3-sustainability-17-04681" ref-type="aff">3</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Zhitao</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Zhenyong</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Fu</surname>
+            <given-names>Yaping</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-sustainability-17-04681"><label>1</label>Graduate School on Sustainability Science, Universitas Padjadjaran, Bandung 40132, Indonesia; <email>susanti.withaningsih@unpad.ac.id</email></aff>
+      <aff id="af2-sustainability-17-04681"><label>2</label>Department of Agro Socio-Economics, Faculty of Agriculture, Universitas Padjadjaran, Sumedang 45363, Indonesia; <email>tomy.perdana@unpad.ac.id</email></aff>
+      <aff id="af3-sustainability-17-04681"><label>3</label>Department of Biology, Faculty of Mathematics and Natural Sciences, Universitas Padjadjaran, Sumedang 45363, Indonesia</aff>
+      <author-notes>
+        <corresp id="c1-sustainability-17-04681"><label>*</label>Correspondence: <email>glenn@diginusantara.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>05</month>
+        <year>2025</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2025</year>
+      </pub-date>
+      <volume>17</volume>
+      <issue>10</issue>
+      <elocation-id>4681</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>04</month>
+          <year>2025</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>05</day>
+          <month>05</month>
+          <year>2025</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>05</month>
+          <year>2025</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2025 by the authors.</copyright-statement>
+        <copyright-year>2025</copyright-year>
+        <license license-type="open-access">
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>In the past three years, electric vehicle (EV) sales in Indonesia have increased significantly, reflecting a positive trend in the country&#x2019;s efforts to reduce carbon emissions. However, EV adoption in developing countries may not always lead to effective carbon emission reductions. The environmental benefits of EVs are highly dependent on the electricity generation mix of a given country. Since Indonesia still relies heavily on fossil fuel-based power plants, the positive impact of EV usage on emission reduction needs to be critically assessed. This paper examines the adoption of EVs as a strategic pathway to reduce fossil fuel import dependency and carbon emissions. Using emissions data provided by the Google Environmental Insights Explorer (EIE) in West Nusa Tenggara Province (NTB), this study adopts a System Dynamics approach to explore various policy and energy transition scenarios that could maximize the environmental benefits of EV use. This study aims to analyze the impact of EV development on CO<sub>2</sub> emissions, fossil fuel dependency, and cross-sectoral sustainability trade-offs in Indonesia. These insights can inform the formulation of more integrated and effective policies to guide the national transition toward sustainable transportation.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>emissions</kwd>
+        <kwd>electric vehicle</kwd>
+        <kwd>google environment insight explorer</kwd>
+        <kwd>low carbon mobility</kwd>
+        <kwd>sustainability development goals</kwd>
+        <kwd>system dynamics</kwd>
+        <kwd>transportation</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>This research received no external funding.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-sustainability-17-04681" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>The transition toward low-carbon transportation modes is an integral component of Indonesia&#x2019;s national strategy to address climate change, as outlined in the strategic agenda of the National Development Planning Agency [<xref ref-type="bibr" rid="B1-sustainability-17-04681">1</xref>,<xref ref-type="bibr" rid="B2-sustainability-17-04681">2</xref>]. This transition requires well-designed and specific scenarios that consider multiple interrelated aspects, including energy security, the competitiveness of electric vehicles, and transportation emissions [<xref ref-type="bibr" rid="B3-sustainability-17-04681">3</xref>,<xref ref-type="bibr" rid="B4-sustainability-17-04681">4</xref>,<xref ref-type="bibr" rid="B5-sustainability-17-04681">5</xref>]. These three dimensions are interconnected, thereby necessitating a comprehensive analysis to inform effective policy formulation.</p>
+      <p>Electric vehicle (EV) sales in Indonesia experienced a remarkable increase between 2021 and 2023, with an average annual growth rate of 206.6% [<xref ref-type="bibr" rid="B6-sustainability-17-04681">6</xref>]. However, without a parallel transition to renewable electricity sources, EV adoption may introduce new challenges. This concern is echoed in the work of Canals Casals et al. [<xref ref-type="bibr" rid="B7-sustainability-17-04681">7</xref>], who demonstrate that the emission reduction benefits of EVs are highly dependent on the source of electricity generation. If the national grid is still dominated by fossil fuels, EV usage can produce carbon emissions comparable to&#x2014;or even higher than&#x2014;those of internal combustion engine (ICE) vehicles. Conversely, Atabani et al. [<xref ref-type="bibr" rid="B8-sustainability-17-04681">8</xref>] show that fuel efficiency improvements and emission reductions can be achieved through energy-efficient vehicle technologies. Indonesia faces considerable challenges in its transition to EVs, largely due to its continued reliance on fossil fuels [<xref ref-type="bibr" rid="B9-sustainability-17-04681">9</xref>]. Currently, renewable energy contributes only 14% to the national electricity mix. State Electricity Company (PLN) aims to increase this share to 23% by 2030 [<xref ref-type="bibr" rid="B1-sustainability-17-04681">1</xref>,<xref ref-type="bibr" rid="B10-sustainability-17-04681">10</xref>,<xref ref-type="bibr" rid="B11-sustainability-17-04681">11</xref>]. However, no comprehensive study has yet examined whether EV deployment in Indonesia will bring substantial climate mitigation benefits.</p>
+      <p>Meanwhile, ICE-based transportation continues to present serious challenges, particularly regarding carbon emissions and the nation&#x2019;s heavy reliance on imported petroleum fuels [<xref ref-type="bibr" rid="B12-sustainability-17-04681">12</xref>]. To meet domestic demand, Indonesia imports a substantial volume of fossil fuels [<xref ref-type="bibr" rid="B13-sustainability-17-04681">13</xref>], which contributes to rising national expenditure, trade balance pressures, and the weakening of foreign exchange reserves [<xref ref-type="bibr" rid="B14-sustainability-17-04681">14</xref>].</p>
+      <p>Although various policies have been issued to promote the adoption of EVs, to date, there is a lack of research that systematically integrates the dynamics of energy mix, emission impacts, and fossil fuel dependency into a unified, data-driven transition framework. To address this gap, this study poses three core research questions: (1) What form should a transition model from ICE vehicles to EVs take in order to reflect the dynamics of energy demand and emission efficiency? (2) What percentage of EV adoption is required to eliminate Indonesia&#x2019;s dependency on imported fossil fuels? (3) What is the most optimal scenario to ensure a sustainable transportation system in Indonesia?</p>
+      <p>This study has the potential to provide important implications for government policy in designing a more systematic, data-based transportation transition strategy that aligns with the country&#x2019;s Net Zero Emissions (NZE) target by 2050 [<xref ref-type="bibr" rid="B15-sustainability-17-04681">15</xref>]. From an academic standpoint, the results of this study are expected to enrich the literature on sustainability and energy transition in developing countries.</p>
+      <p>The study by Albatayneh et al. [<xref ref-type="bibr" rid="B16-sustainability-17-04681">16</xref>] employs a well-to-wheel (WTW) approach to compare the overall energy efficiency between EV and ICE. This method is notably detailed, as it accounts for the efficiency of each stage along the energy supply chain&#x2014;from fuel extraction to the final energy conversion at the vehicle&#x2019;s wheels. However, the approach has certain limitations, particularly its exclusion of real-world operational conditions such as vehicle mileage, trip frequency, and usage patterns. These factors can significantly influence the cumulative energy efficiency of vehicles over time and are critical for a more accurate and context-specific assessment. To analyze such aspects, a bottom-up approach to emission inventories and transport behavior modeling may be employed. Arioli et al. [<xref ref-type="bibr" rid="B17-sustainability-17-04681">17</xref>] suggest that the bottom-up method is more effective for designing targeted transport policies. However, this approach often faces challenges related to data availability and the high cost of large-scale information collection. Therefore, leveraging technological tools becomes essential to overcome these limitations [<xref ref-type="bibr" rid="B18-sustainability-17-04681">18</xref>].</p>
+      <p>As an alternative, Google Environmental Insights Explorer (Google EIE) provides a bottom-up framework to efficiently estimate emissions and transportation behavior. Google EIE is a data-driven platform that integrates Google Maps and traffic sensor data to generate emissions inventories and behavioral analyses [<xref ref-type="bibr" rid="B19-sustainability-17-04681">19</xref>]. This technology replaces traditional methods that rely heavily on manual field surveys. It has already undergone validation in the United States [<xref ref-type="bibr" rid="B20-sustainability-17-04681">20</xref>], making it a suitable tool for this study. Currently, Google EIE has only been implemented in one Indonesian province, West Nusa Tenggara (NTB), which has therefore been selected as the case study area to assess the integration of Google EIE into low-carbon transport transition scenarios.</p>
+      <p>Since Banister [<xref ref-type="bibr" rid="B4-sustainability-17-04681">4</xref>] introduced the sustainable transportation paradigm, understanding transport systems has required multiple perspectives beyond linear approaches. Sustainable transportation systems must consider not only mobility needs but also energy availability, environmental impacts, and economic implications. In the analysis of transport policy systems, several studies have recommended the use of System Dynamics (SD). SD is powerful in analyzing the complexity of interconnected systems [<xref ref-type="bibr" rid="B21-sustainability-17-04681">21</xref>], allowing for the qualitative mapping of causal relationships between variables and the numerical simulation of scenarios to achieve desired indicators [<xref ref-type="bibr" rid="B22-sustainability-17-04681">22</xref>,<xref ref-type="bibr" rid="B23-sustainability-17-04681">23</xref>,<xref ref-type="bibr" rid="B24-sustainability-17-04681">24</xref>]. Given that this research demands a systemic thinking framework combined with numerical simulations, the SD approach is deemed suitable for generating robust policy insights.</p>
+      <p>By integrating the SD approach with technologically derived data from Google EIE, this study aims to construct a low-carbon transport transition model that is contextually relevant for Indonesia and potentially replicable in other regions with similar characteristics. The following Section outlines the methodological framework used to develop the model.</p>
+      <p>This paper is structured as follows: <xref ref-type="sec" rid="sec2-sustainability-17-04681">Section 2</xref> reviews the relevant literature on EV transitions and the role of Google EIE as a data source. <xref ref-type="sec" rid="sec3-sustainability-17-04681">Section 3</xref> explains the methodological framework, including the System Dynamics approach and data integration. <xref ref-type="sec" rid="sec4-sustainability-17-04681">Section 4</xref> presents the simulation results across different policy scenarios. <xref ref-type="sec" rid="sec5-sustainability-17-04681">Section 5</xref> discusses the implications of the findings, and <xref ref-type="sec" rid="sec6-sustainability-17-04681">Section 6</xref> concludes the study with policy recommendations, identified limitations, and suggestions for future research.</p>
+    </sec>
+    <sec id="sec2-sustainability-17-04681">
+      <title>2. Literature Review</title>
+      <p>Based on the Google EIE dashboard for NTB, as presented in <xref ref-type="table" rid="sustainability-17-04681-t001">Table 1</xref> and <xref ref-type="table" rid="sustainability-17-04681-t002">Table 2</xref>, there was a noticeable decline in transportation emissions, reaching their lowest point in 2020. This reduction is likely attributed to mobility restrictions during the COVID-19 pandemic. Following 2020, transportation emissions began to rise again; however, the increase was primarily driven by motorcycle activity rather than car usage.</p>
+      <p>A closer look at the data reveals a fundamental insight: motorcycles account for a higher number of trips and total travel distance compared to cars, yet cars produce higher total emissions. This discrepancy underscores that four-wheeled ICE vehicles remain the dominant contributor to transportation-related carbon emissions. Therefore, transitioning these vehicles to electric alternatives has a greater potential impact on emission reduction and fossil fuel savings than focusing solely on two-wheelers. The results of the Astuti&#x2019;s study [<xref ref-type="bibr" rid="B26-sustainability-17-04681">26</xref>] showed that sales of electric motorbikes from 2029 to 2022 only reached 30,837 units, while for two-wheeled vehicles with conventional combustion systems, they had reached 29 million units.</p>
+      <p>According to Langer et al. [<xref ref-type="bibr" rid="B27-sustainability-17-04681">27</xref>], Indonesia possesses vast renewable energy potential both on land and at sea, which, from a technical standpoint, could meet the country&#x2019;s electricity demand several times over. The greatest potential lies in solar photovoltaics (PV) and offshore wind power, while geothermal energy holds a critical role as a stable baseload source. Indonesia is estimated to hold around 40% of the world&#x2019;s geothermal reserves; however, by 2019, only approximately 9% had been utilized&#x2014;far below the national energy roadmap (RUEN) target of 17.5 GW by 2050. The slow development of geothermal energy is attributed to complex land permitting processes, uncompetitive electricity tariffs, local opposition, and long project lead times. Overall, the deployment of renewable energy in Indonesia remains sluggish due to data limitations, inadequate regulatory frameworks, and a lack of investment. Nevertheless, if fully harnessed, this renewable potential could enable Indonesia to achieve a 100% renewable electricity system by 2050, thereby accelerating its energy transition and strengthening national energy security.</p>
+      <p>In this context, Google EIE provides a valuable emissions inventory tool by offering quantifiable and geographically disaggregated data, such as travel distance and trip frequency. These metrics are essential for transport modeling and policy formulation. Several studies support this perspective. Banister [<xref ref-type="bibr" rid="B3-sustainability-17-04681">3</xref>] emphasized reducing trip demand as a central pillar of sustainable transportation policy. Sayyadi and Awasthi [<xref ref-type="bibr" rid="B28-sustainability-17-04681">28</xref>] proposed an SD model that incorporates trip frequency as a key behavioral variable. Wang et al. [<xref ref-type="bibr" rid="B29-sustainability-17-04681">29</xref>] demonstrated that transport needs are driven by factors such as population and travel demand, rather than by vehicle ownership alone. Integrating these insights into modeling frameworks can significantly enhance the policy relevance of transportation emission strategies.</p>
+    </sec>
+    <sec id="sec3-sustainability-17-04681">
+      <title>3. Method</title>
+      <sec id="sec3dot1-sustainability-17-04681">
+        <title>3.1. System Dynamics Approach</title>
+        <p>In this study, the System Dynamics (SD) approach was chosen as it is more suitable for analyzing low-carbon transportation systems that are aggregate, at a macro level, and oriented toward long-term policy planning. While Agent-Based Modeling (ABM) excels in capturing individual micro-level behaviors and agent interactions, SD offers superior capability in mapping systemic structures and feedback-based causal relationships, such as the interplay between energy mix, EV adoption rates, and carbon emissions. Furthermore, SD enables the exploration of policy scenarios through numerical simulation over extended time horizons, making it more appropriate for modeling the dynamics of accumulated variables such as vehicle ownership or energy demand. Given the focus of this study on data-driven scenario formulation and systemic policy impact forecasting, SD is deemed more relevant than ABM. The latter is more appropriate for exploring individual behavior and micro-level scenarios, which are not the primary focus of this research [<xref ref-type="bibr" rid="B30-sustainability-17-04681">30</xref>].</p>
+        <p>As a computer-based simulation method, SD facilitates the modeling of systemic thinking frameworks by considering the interrelationships between various elements of a system. One of the core tools in SD is the Causal Loop Diagram (CLD), which is used to visually represent cause-and-effect relationships within a system [<xref ref-type="bibr" rid="B23-sustainability-17-04681">23</xref>]. This diagram helps to understand how changes in one variable can influence others. CLDs consist of three key components: (1) variables, representing system elements subject to change; (2) Causal Arrows, which denote the direction of influence between variables; and (3) positive (+) and negative (&#x2212;) signs, indicating whether the relationship is reinforcing or balancing.</p>
+        <p>The CLD serves as the conceptual framework for simulating the transportation transition model. In line with the study&#x2019;s objectives, it is necessary to perform dynamic system behavior analysis through numerical computation and simulation [<xref ref-type="bibr" rid="B31-sustainability-17-04681">31</xref>]. These calculations address the core research questions, such as the required EV adoption rate to eliminate Indonesia&#x2019;s dependency on imported fossil fuels, and the renewable energy ratio necessary to achieve a low-carbon transportation system. For this purpose, the CLD is further developed into a Stock and Flow Diagram (SFD), which facilitates the quantification of stocks and flows within the system and produces more accurate simulation outputs.</p>
+        <p>The analysis is based on a combination of official government data and transportation data from Google EIE for NTB, which are dynamically processed through the SFD model. The SFD enables the development of multiple policy scenarios, allowing the transition strategy to be managed in a more flexible and adaptive manner. Three scenarios are explored: (1) Business as Usual (BAU), representing a trajectory with no significant policy intervention; (2) the Moderate Scenario, a realistic scenario with limited policy intervention and implementation constraints; and (3) the Optimistic Scenario, which assumes maximum policy interventions leading to significant environmental and economic impacts.</p>
+        <p>The detailed research process is illustrated in <xref ref-type="fig" rid="sustainability-17-04681-f001">Figure 1</xref>. The study began with the collection of both primary and secondary data. These datasets were processed and validated to identify the most relevant variables for constructing the CLD. The CLD was further developed into simulation scenarios using SFD. The simulation results were then analyzed to address the research questions and to formulate corresponding policy recommendations and conclusions.</p>
+      </sec>
+      <sec id="sec3dot2-sustainability-17-04681">
+        <title>3.2. Scope and Limitation</title>
+        <p>In designing the Causal Loop Diagram (CLD), it is essential to define the system boundaries to ensure that the model remains focused, avoids excessive complexity, and stays aligned with the research objectives. The core focus of this analysis is the transition from ICE vehicles to EVs, taking into account national energy security and the carbon emission reduction resulting from future transportation growth. Therefore, variables that do not have a significant impact on the study&#x2019;s focus are excluded. The system boundary setting follows the method proposed by Bure&#x161; [<xref ref-type="bibr" rid="B32-sustainability-17-04681">32</xref>], which includes the following: (1) Endogenization, or the elimination of exogenous variables that do not directly contribute to the system&#x2019;s internal behavior; (2) Encapsulation, the merging of variables that serve only as single-input/single-output intermediaries, to simplify the model structure; and (3) Order-Oriented Reduction, the removal of connector variables that lack systemic relevance, such as public perception or communal awareness of environmentally friendly vehicles.</p>
+        <p>This study adopts the perspective of policymakers&#x2014;particularly at the national and subnational levels. From a policy standpoint, the analysis presented in this research is intended to support institutions such as Bappenas (the National Development Planning Agency), the Ministry of Transportation, the Ministry of Energy, and the Provincial Government of West Nusa Tenggara in developing more effective low-carbon transportation transition strategies.</p>
+        <p>However, a notable limitation of this study lies in the geographical scope of data availability. The analysis utilizes data from Google EIE, which, at the time of this research, only provides comprehensive transportation-related emissions data for NTB Province. As a result, the System Dynamics modeling and policy implications are derived from the context of this province alone. Nevertheless, NTB is considered a reasonably representative case due to its composition of two medium-sized islands&#x2014;Lombok and Sumbawa&#x2014;a geographical structure shared by 24 out of 36 provinces in Indonesia. Given that Indonesia is the world&#x2019;s largest archipelagic nation, with over 922 inhabited islands, insights drawn from NTB offer valuable indications for broader applicability. Still, further research is needed to validate and adapt the model for provinces with markedly different geographic, economic, or infrastructural characteristics.</p>
+      </sec>
+      <sec id="sec3dot3-sustainability-17-04681">
+        <title>3.3. Model Variable Identification and Data Integration</title>
+        <p>The variables and parameters used in this study were derived from a review of the credible journal literature that discusses transportation system modeling through an SD approach. These variables were then integrated with those provided by Google EIE, which serves as the primary data source for transportation-related emissions in NTB. Studies by Onat et al. and Sayyadi [<xref ref-type="bibr" rid="B28-sustainability-17-04681">28</xref>,<xref ref-type="bibr" rid="B33-sustainability-17-04681">33</xref>] propose four main categories of variables that influence the adoption of EVs: (1) transportation aspects, (2) economic aspects, (3) environmental aspects, and (4) social aspects. All relevant variables across these four categories were summarized alongside available supporting data.</p>
+        <p>The transportation aspect includes a set of variables representing the transportation system [<xref ref-type="bibr" rid="B28-sustainability-17-04681">28</xref>]. Population growth is the primary driver of increased travel demand, which, in turn, leads to greater use of transportation modes&#x2014;both ICE- and EV-based. These two modes of transport consume fuel (gasoline or diesel) and electricity, respectively, based on travel distance. ICE vehicles produce direct emissions from internal combustion, while EVs generate indirect emissions from electricity production.</p>
+        <p>In identifying economic aspects, studies have highlighted a strong correlation between economic growth and transport mobility [<xref ref-type="bibr" rid="B34-sustainability-17-04681">34</xref>]. Increased mobility enhances productivity and stimulates economic growth, and vice versa [<xref ref-type="bibr" rid="B35-sustainability-17-04681">35</xref>]. From the perspective of externalities, previous studies have emphasized the long-term socioeconomic consequences of global warming [<xref ref-type="bibr" rid="B36-sustainability-17-04681">36</xref>,<xref ref-type="bibr" rid="B37-sustainability-17-04681">37</xref>]. There is a negative correlation between climate change and investment, employment availability, and overall well-being. Simulations by Masters and McMillan [<xref ref-type="bibr" rid="B38-sustainability-17-04681">38</xref>] also suggest that tropical countries face higher risks of slow economic growth compared to subtropical regions.</p>
+        <p>The urgency to adopt EVs is largely driven by the need to reduce transportation-related emissions, which pose significant environmental and social challenges. Lelieveld et al. [<xref ref-type="bibr" rid="B39-sustainability-17-04681">39</xref>] provide compelling evidence that phasing out fossil fuel use could prevent approximately 3.6 million (range: 2.96&#x2013;4.21 million) premature deaths annually due to outdoor air pollution. Globally, fossil fuel-related emissions are responsible for around 65% of these excess deaths. James Woodcock [<xref ref-type="bibr" rid="B40-sustainability-17-04681">40</xref>] also argues that reducing motor vehicle use&#x2014;especially through increased walking and cycling&#x2014;provides substantial public health benefits. Thus, there is a direct relationship between transport-related externalities and public health.</p>
+      </sec>
+      <sec id="sec3dot4-sustainability-17-04681">
+        <title>3.4. EV Transition Simulation Design</title>
+        <p>To sharpen the formulation of the research questions, this study incorporates findings from previous transportation transition studies conducted in Indonesia. Lonan and Ardi [<xref ref-type="bibr" rid="B41-sustainability-17-04681">41</xref>] provide projections for feasible EV adoption rates within specific timeframes. Their study suggests that EV adoption can increase significantly if the government implements proper incentives, such as vehicle purchase subsidies, tax reductions, and the development of widespread charging infrastructure. In the most ambitious scenario, EVs are projected to replace up to 60% of ICE vehicles by 2040. This growth could be achieved if EV prices are reduced by 50%, domestic production capacity is expanded, and the charging station network develops faster than EV ownership itself. For this reason, the simulation in this study adopts an exploratory approach and does not consider the policy feasibility constraints when establishing the baseline.</p>
+        <p>The simulation assumes substantial growth in EV adoption based on the data presented by Ardiyanti et al. [<xref ref-type="bibr" rid="B6-sustainability-17-04681">6</xref>]. According to the Indonesian National Police Traffic Corps (Korlantas) in 2023, the number of registered four-wheeled vehicles in Indonesia reached 20.1 million units [<xref ref-type="bibr" rid="B42-sustainability-17-04681">42</xref>]. Over the past decade, annual vehicle sales in Indonesia have stagnated at around 1 million units [<xref ref-type="bibr" rid="B43-sustainability-17-04681">43</xref>], suggesting that recent EV sales may have started substituting for ICE vehicle sales over the last five years.</p>
+        <p>Indonesia has considerable potential to expand renewable energy (RE) as a primary source for electricity generation. Government Regulation No. 79 of 2014 on the National Energy Policy set a target for RE to contribute at least 23% of the national energy mix by 2025 and 31% by 2050 [<xref ref-type="bibr" rid="B44-sustainability-17-04681">44</xref>]. Indonesia&#x2019;s estimated RE potential reaches 442 gigawatts (GW), yet by 2018, only 8.8 GW had been installed&#x2014;approximately 14% of the national capacity of 64.5 GW. This indicates significant room for growth in RE deployment.</p>
+        <p>Conversely, the production of primary energy sources such as natural gas, petroleum, and coal has shown a declining trend in recent years. Meanwhile, the contribution of RE to the primary energy mix has steadily increased&#x2014;from just 4.9% in 2015 to 12.16% in 2021. On the consumption side, between 2019 and 2023, Indonesia&#x2019;s per capita electricity consumption increased by 23.3% [<xref ref-type="bibr" rid="B13-sustainability-17-04681">13</xref>]. The average annual growth rate of per capita electricity consumption over the last five years (2019&#x2013;2023) has been approximately 5.38%.</p>
+        <p>The emission factor for coal combustion follows the IPCC guidelines [<xref ref-type="bibr" rid="B45-sustainability-17-04681">45</xref>], set at 0.0003406 tCO<sub>2</sub>/KWh. According to technical estimates from Li et al. [<xref ref-type="bibr" rid="B46-sustainability-17-04681">46</xref>], the average energy consumption required for an EV to travel one kilometer is approximately 0.33 KWh/km. This value reflects the typical energy efficiency under normal operating conditions and serves as a baseline for estimating EV electricity demand in energy planning, transportation system simulation, and emission analysis based on electricity mix scenarios.</p>
+        <p>All variables, parameters, and Indonesian-specific data summarized in <xref ref-type="table" rid="sustainability-17-04681-t003">Table 3</xref> and <xref ref-type="table" rid="sustainability-17-04681-t004">Table 4</xref> are compiled to construct the CLD, which maps the causal relationships among the relevant subsystems.</p>
+      </sec>
+      <sec id="sec3dot5-sustainability-17-04681">
+        <title>3.5. Data Acquisition and Validation</title>
+        <p>This study utilized three primary data sources collected during the 2022&#x2013;2023 period to develop a sustainable transportation system model. The first source is travel and emissions inventory data from Google EIE, which served as the foundation for the transportation analysis. The second source consists of secondary data obtained from the Central Statistics Agency (BPS), government ministry reports, the academic literature, and previous research studies to ensure the model&#x2019;s validity and reliability. The model structure was developed using Vensim PLE Version 10.1.3 software, which was employed to construct both the CLD and the SFD.</p>
+        <p>The validation process followed two approaches: (1) Structure Verification, in which the model structure was compared with insights from the existing literature and expert knowledge, and (2) a Behavior Reproduction Test, where the simulation output of the Business-as-Usual (BAU) Scenario was matched against historical energy consumption trends in NTB Province.</p>
+        <p>To build the CLD structure, expert interviews were conducted as part of a Participatory Dynamic Modeling approach [<xref ref-type="bibr" rid="B51-sustainability-17-04681">51</xref>,<xref ref-type="bibr" rid="B52-sustainability-17-04681">52</xref>], involving purposively selected experts [<xref ref-type="bibr" rid="B53-sustainability-17-04681">53</xref>]. These experts were chosen based on their domain expertise in transportation, urban planning, sustainable development, and energy security. Three experts were interviewed to assess the reliability of the model: one academic who also serves as the head of an SDGs Center, a member of the National Energy Council, and a prominent transportation expert who is well known in the media. These in-person interviews provided valuable feedback that helped confirm and enrich the model structure with expert insights.</p>
+        <p>Several limitations were acknowledged in this study: (1) The research did not incorporate qualitative data into the simulation framework, and therefore could not capture the social dynamics influencing EV adoption. (2) The model structure excludes public transportation systems, as this study specifically focuses on EV transition dynamics related to energy security, fiscal impact, and emissions. However, the inclusion of public transport aspects is recommended for future research. (3) A key limitation of the SD approach applied in this study is its inability to account for detailed individual behavioral dynamics, spatial effects, and user preferences toward EVs. As such, the simulation results should not be interpreted as precise forecasts, but rather as exploratory scenarios to support evidence-based policy design for transportation transition.</p>
+      </sec>
+      <sec id="sec3dot6-sustainability-17-04681">
+        <title>3.6. Google Environmental Insight Explorer</title>
+        <p>Arioli et al., in The Evolution of City-Scale GHG Emissions Inventory Methods: A Systematic Review [<xref ref-type="bibr" rid="B17-sustainability-17-04681">17</xref>], highlight the primary challenges in city-level transportation emissions inventorying, particularly in the implementation of the bottom-up approach. While the bottom-up method is recognized as more accurate than the top-down approach, their study identifies significant barriers to its implementation, including data limitations, high costs, and a lack of standardization in transport data collection systems. In many cities, especially in developing countries, crucial transportation activity data such as Vehicle Kilometers Traveled (VKT), travel patterns, and fuel consumption remain poorly documented, making the bottom-up approach difficult to apply on a broader scale.</p>
+        <p>This study aims to refine the bottom-up approach by integrating real-time data-driven technology through Google EIE. By addressing the limitations identified in previous research, this study contributes not only to the enhancement of more efficient policy development but also to the advancement of the bottom-up methodology as previously discussed by Arioli et al. Google EIE has advantages over government methods in transportation emissions inventorying [<xref ref-type="bibr" rid="B19-sustainability-17-04681">19</xref>]. As shown in <xref ref-type="fig" rid="sustainability-17-04681-f002">Figure 2</xref>, Google EIE is able to detect emissions based on transportation mode type, while government methods still rely on calculating the total energy consumption of the transportation sector.</p>
+        <p>The Jakarta Environmental Agency document [<xref ref-type="bibr" rid="B54-sustainability-17-04681">54</xref>] states that transportation emissions are calculated as part of total energy consumption. <xref ref-type="fig" rid="sustainability-17-04681-f003">Figure 3</xref> illustrates the inventory method of the above needs which results in a lack of granularity in the data. With this approach, it is difficult to know the specific contribution of two-wheeled and four-wheeled vehicles to total emissions, in contrast to Google EIE which is able to present emission data in more detail.</p>
+        <p>Based on <xref ref-type="table" rid="sustainability-17-04681-t005">Table 5</xref>, Google EIE is considered more accurate in describing the details of motor vehicle emissions, so it needs to be further tested as to whether its use can provide new insights into sustainable transportation systems. The emissions trend presented by Google EIE closely aligns with the emissions data recorded by BPS (Statistics Indonesia) for West Nusa Tenggara Province, as shown in <xref ref-type="table" rid="sustainability-17-04681-t006">Table 6</xref>. However, in 2020, the BPS data indicates a sudden spike&#x2014;more than double the previous year&#x2019;s emissions. The underlying cause of this anomaly remains unclear, especially considering that Indonesia was under social mobility restrictions due to the COVID-19 pandemic during that period.</p>
+      </sec>
+    </sec>
+    <sec id="sec4-sustainability-17-04681">
+      <title>4. Transition Model</title>
+      <sec id="sec4dot1-sustainability-17-04681">
+        <title>4.1. Causal Loop Diagram of Transportation Transition</title>
+        <p>The CLD sequence begins with the Transportation Driver Subsystem, as illustrated in <xref ref-type="fig" rid="sustainability-17-04681-f004">Figure 4</xref>. Population and economic growth serve as the primary drivers of increased travel demand. Gross Domestic Product (GDP) and the number of trips are linked through a reinforcing feedback loop, as a higher volume of travel also contributes positively to economic activity. The number of trips influences the total travel distance across transportation modes. This travel distance is further affected by the average distance per trip.</p>
+        <p>Several factors can influence the average travel distance&#x2014;such as land use patterns, the availability of public transportation, and geographical conditions. However, these factors were not included in the model, as they are not directly relevant to the central focus of this study.</p>
+        <p>The Transportation Driver CLD is then connected to the EV subsystem. Total travel distance is converted into EV-specific travel distance, which is derived from the number of EV trips and the average distance per trip. The number of EV trips is influenced by the EV adoption rate. This adoption rate is, in turn, affected by various factors such as government policies, pricing, reliability, public perception, and others. These factors are simplified in this model as they are not the primary focus of the study. The total EV travel distance drives electricity consumption, thereby increasing electricity demand.</p>
+        <p>Electricity demand simultaneously reduces electricity supply and stimulates electricity production. Electricity production is sourced from both fossil fuels and RE, with each contributing to the overall electricity supply. However, non-renewable electricity generation increases coal usage. When multiplied by the carbon emission coefficient, coal combustion results in increased carbon emissions, which subsequently contributes to greenhouse gas (GHG) accumulation. The rise in GHG levels leads to climate change, which in turn may trigger negative economic consequences. This overall feedback loop forms a balancing loop, aiming to stabilize the system.</p>
+        <p><xref ref-type="fig" rid="sustainability-17-04681-f005">Figure 5</xref> below illustrates how the share of RE in the electricity mix plays a critical role in minimizing the externalities of EV usage. The use of fossil fuels for electricity production creates a chain of externalities that impact both environmental and economic dynamics. Nevertheless, despite the adverse emissions associated with fossil fuels, coal reserves in Indonesia remain abundant.</p>
+        <p>The Transportation Driver CLD is also connected to the ICE subsystem, as illustrated in <xref ref-type="fig" rid="sustainability-17-04681-f006">Figure 6</xref>. The ICE subsystem features a more complex structure compared to the EV subsystem. Travel distance is converted into ICE-specific distance traveled, calculated based on the number of ICE trips and the average distance per trip. This ICE travel distance drives fuel consumption, which in turn increases fuel demand.</p>
+        <p>Rising fuel demand reduces the available fuel supply while simultaneously stimulating domestic fossil fuel production, encouraging biofuel development, and increasing fuel import expenditures. Imports continue to dominate the national fuel supply, thereby requiring sustained government budget allocations and placing pressure on fiscal resources. This situation can reduce the availability of funds for other, more productive sectors. Conversely, if fuel import spending could be eliminated, the reallocated funds could potentially be used to stimulate broader economic activity.</p>
+        <p>Unlike EVs, ICE vehicle usage results in not only carbon emissions but also direct and localized air pollution. These emissions can have social implications, particularly in terms of public health. Empirical evidence shows that vehicle-related air pollution negatively affects community health. In Indonesia, the government provides public healthcare subsidies, which means that declining public health conditions lead to increased healthcare spending. This increase in health-related expenditures reduces the government&#x2019;s ability to allocate funding toward programs that promote economic growth.</p>
+        <p>The three CLDs were then integrated into a unified transition model illustrating the shift from ICE-based to EV-based transportation. As shown in <xref ref-type="fig" rid="sustainability-17-04681-f007">Figure 7</xref>, both ICE and EV systems contribute to GHG emissions, but through different mechanisms. The ICE subsystem has a more direct emission pathway, as combustion occurs within the vehicle itself. In contrast, EV emissions originate indirectly from the combustion of fossil fuels used in electricity generation.</p>
+        <p>The fuel supply chain for ICE vehicles is more complex and involves higher externalities compared to EVs. Indonesia&#x2019;s limited petroleum reserves necessitate reliance on imported fuel and the use of palm oil blends in fuel mixtures. Both sources carry potential negative implications if not managed carefully.</p>
+      </sec>
+      <sec id="sec4dot2-sustainability-17-04681">
+        <title>4.2. Stock and Flow Diagram: EV Adoption to Eliminate Fuel Imports</title>
+        <p>Following the development of the CLD for the sustainable transportation system, the analysis proceeded by establishing a baseline for fuel savings using an SFD. This stage aimed to quantify the parameters required for reducing the national dependence on imported fossil fuels.</p>
+        <p>Relevant variables were integrated into the SFD framework to derive quantitative estimates. The projection of EV and ICE vehicle shares was modeled up to 2050, ensuring that the total projected vehicle growth did not exceed the historical trends observed over the past five years. While EV adoption is expected to follow an exponential trajectory, this growth is constrained by eventual market saturation. As EVs gain market shares, the proportion of ICE vehicles is projected to decline. Notably, this shift in market composition does not affect the overall number of vehicles on the road. The decline in ICE vehicles leads to a reduction in ICE-related travel distance, which is offset by a corresponding increase in EV usage. Consequently, reliance on imported fuel gradually decreases. Fuel import elimination is projected to occur once ICE vehicle travel falls by approximately 42% from current levels&#x2014;a milestone expected around 2040, which coincides with the saturation point of EV market growth.</p>
+      </sec>
+      <sec id="sec4dot3-sustainability-17-04681">
+        <title>4.3. Stock and Flow Diagram of Energy Mix Dynamics, Fuel Imports, and EV Adoption</title>
+        <p>Upon establishing the baseline scenario for eliminating fuel imports, the sustainable transport framework was expanded to incorporate environmental impact considerations. <xref ref-type="fig" rid="sustainability-17-04681-f008">Figure 8</xref> illustrates the EV transition simulation, emphasizing improvements in environmental quality and fuel efficiency. To ensure the robustness of the projected outcomes, model validation was conducted by comparing the simulated fossil-fuel-based electricity production growth against actual historical trends. As presented in <xref ref-type="table" rid="sustainability-17-04681-t007">Table 7</xref>, the projection accuracy falls within a 10&#x2013;11% margin, aligning with Indonesia&#x2019;s electricity production growth over the past decade. This alignment indicates that the SFD model in <xref ref-type="fig" rid="sustainability-17-04681-f008">Figure 8</xref> adequately represents the real-world conditions.</p>
+        <p>Several scenarios were then explored to identify the most optimal and sustainable pathway, as visualized in <xref ref-type="fig" rid="sustainability-17-04681-f009">Figure 9</xref>. As shown in <xref ref-type="table" rid="sustainability-17-04681-t008">Table 8</xref>, the first scenario&#x2014;the Business-as-Usual (BAU) Scenario&#x2014;reflects current trends in EV adoption, fossil-fuel-based electricity generation, RE development, and other contextual variables in NTB. Under this scenario, the coal-based electricity supply is projected to grow by 10&#x2013;20% annually, while renewable sources expand by 15&#x2013;20% annually. Electricity consumption is expected to rise by 6.6% per year, with additional demand from EVs ranging from 5% to 75%. Simulation results suggest that electricity supply shortages could begin as early as 2028, with the gap widening over time.</p>
+        <p>The second scenario&#x2014;the Moderate Scenario&#x2014;is designed to mitigate the projected deficits of the BAU Scenario while also advancing fossil fuel reduction goals. EV penetration is limited to a range of 4&#x2013;64% to provide flexibility in managing the electricity supply. The energy mix targets an annual growth of 15&#x2013;32%, while coal-based generation is increased by 10&#x2013;40% to ensure grid stability.</p>
+        <p>The Optimistic Scenario aims to fully eliminate fossil fuel imports. EV ownership grows at rates similar to those of BAU (5&#x2013;75%), resulting in a substantial surge in electricity demand. To meet this demand, fossil-fuel-based electricity production must increase by 15&#x2013;45%, while RE generation is maximized between 30 and 65%. Under this scenario, fossil fuel import dependency&#x2014;and the associated fiscal burden&#x2014;can be entirely eliminated.</p>
+      </sec>
+    </sec>
+    <sec id="sec5-sustainability-17-04681" sec-type="discussion">
+      <title>5. Discussion</title>
+      <p>The simulation results from the SD model reveal contrasting implications across the three scenarios of EV transition in Indonesia. As seen in <xref ref-type="table" rid="sustainability-17-04681-t009">Table 9</xref>, the BAU Scenario, while achieving up to 56% fuel savings, leads to cumulative emissions exceeding 41 million tCO<sub>2</sub>e by 2050. This scenario is ultimately unsustainable due to severe deficits in electricity supply, indicating that without significant upgrades to the power sector, the benefits of fuel efficiency will be offset by energy shortages. In comparison, the Moderate Scenario provides a more balanced trajectory, reducing fossil fuel consumption by up to 25% and potentially lowering fuel imports by as much as 60%. However, this scenario does not sufficiently curb the growth in emissions, which remains close to 50 million tCO<sub>2</sub>e due to a persistent reliance on coal-based power generation, even as EV adoption progresses.</p>
+      <p>In contrast, the Optimistic Scenario presents the most ambitious outcomes. It promises to eliminate fuel imports entirely and maximize EV adoption. Yet, the scenario faces formidable obstacles, especially regarding the availability of renewable primary energy sources and the massive investments required to expand renewable infrastructure and grid capacity. As shown in <xref ref-type="fig" rid="sustainability-17-04681-f010">Figure 10</xref>, the number of EVs owned will reach over 10 million units. This puts additional pressure on Indonesia&#x2019;s electricity system. Without a corresponding shift toward RE, such as solar or geothermal sources, EV adoption risks transferring emissions from the transport sector to the energy sector. This aligns with findings by Canals Casals et al. [<xref ref-type="bibr" rid="B7-sustainability-17-04681">7</xref>], who argue that the environmental efficiency of EVs is highly dependent on the electricity mix.</p>
+      <p>Even though EVs contribute to fuel savings and enhanced energy security, they cannot be viewed as a standalone solution to decarbonization. To ensure that EV adoption leads to meaningful environmental outcomes, it must be accompanied by substantial growth in RE capacity. For example, the Optimistic Scenario requires RE growth of 30% to 65% annually&#x2014;an ambitious target that demands both policy support and capital investment. The economic implications of reduced fuel imports are also significant. If Indonesia were able to cut imports by 25%, or 170 million barrels (<xref ref-type="fig" rid="sustainability-17-04681-f011">Figure 11</xref>), the estimated savings would reach USD 13.6 billion, based on an average crude oil price of USD 80 per barrel [<xref ref-type="bibr" rid="B13-sustainability-17-04681">13</xref>,<xref ref-type="bibr" rid="B55-sustainability-17-04681">55</xref>]. This figure rivals the national health budget allocation in the 2023 State Budget and could instead be redirected to fund up to 2.47 GW of geothermal capacity or 13.6 GW of solar photovoltaic capacity, enhancing Indonesia&#x2019;s long-term energy resilience [<xref ref-type="bibr" rid="B56-sustainability-17-04681">56</xref>,<xref ref-type="bibr" rid="B57-sustainability-17-04681">57</xref>,<xref ref-type="bibr" rid="B58-sustainability-17-04681">58</xref>].</p>
+      <p>Among the three scenarios, the Moderate Scenario emerges as the most pragmatic. While it does not aim for full electrification, its more gradual approach allows for manageable investment levels while still delivering substantial reductions in fuel dependency and emissions. It supports annual RE growth between 15% and 32%, striking a feasible balance between ambition and affordability. These findings support the conclusions of Onat et al. [<xref ref-type="bibr" rid="B33-sustainability-17-04681">33</xref>], who emphasize that the integration of EV deployment with renewable energy development offers the most reliable path to achieving net-zero emissions targets.</p>
+      <p>Ultimately, the success of Indonesia&#x2019;s EV transition depends on cross-sectoral integration and systemic reform. Fiscal measures such as EV subsidies and tax incentives must be aligned with energy policies that promote renewable development and with transportation regulations that accelerate the phase-out of internal combustion engines. As also noted by Santos-Paulino and Thirlwall [<xref ref-type="bibr" rid="B14-sustainability-17-04681">14</xref>], policy coherence is critical to maintaining macroeconomic stability during major structural shifts. Without this alignment, the transition risks becoming a false solution&#x2014;one that simply shifts emissions rather than eliminating them. Therefore, a coordinated, multi-level governance strategy is essential to ensure that EV adoption contributes meaningfully to Indonesia&#x2019;s sustainability goals.</p>
+    </sec>
+    <sec id="sec6-sustainability-17-04681" sec-type="conclusions">
+      <title>6. Conclusions</title>
+      <p>This study demonstrates that EV adoption in Indonesia has a significant impact on reducing dependence on imported fossil fuels and lowering emissions from petroleum-based fuels. However, this shift does not automatically translate into a net reduction in carbon emissions. The continued reliance on coal-fired electricity to power EVs remains a major barrier to emission reductions. Using an SD approach and data from Google EIE, the simulation model developed in this study successfully maps the complex interrelationships among vehicle growth, energy demand, and carbon emission dynamics. The findings reveal that fuel import elimination can be achieved once ICE vehicle travel is reduced by approximately 42%, around 2040 under the Optimistic Scenario. However, achieving this scenario requires complex trade-offs, including large-scale electricity production investments that may pose fiscal sustainability challenges.</p>
+      <p>Under the BAU Scenario, NTB is projected to face prolonged electricity supply deficits due to increased EV penetration, should there be a failure to expand power generation capacity&#x2014;either from conventional or renewable sources. Therefore, it is crucial for the government to adopt a more balanced Moderate Scenario, supported by systemic and cross-sectoral policy interventions, as shown at <xref ref-type="table" rid="sustainability-17-04681-t010">Table 10</xref>. Local governments may gradually increase fuel taxes on ICE vehicles while offering tax incentives to encourage the adoption of EVs. Effective implementation requires cross-institutional coordination among national agencies&#x2014;such as the Ministry of Energy, the Ministry of Finance, and the Ministry of Transportation&#x2014;to synchronize regulatory frameworks, subsidy schemes, and investment roadmaps. A coordinated multi-stakeholder approach, supported by institutional capacity-building and transparent monitoring systems, is essential to ensure that policy actions are not fragmented and that the intended climate and energy security outcomes are achieved. Without these enabling conditions, the policy targets envisioned in the Moderate Scenario may prove difficult to implement. Meanwhile, the state-owned electricity company (PLN) must continue to advance its renewable energy development roadmap while also considering the need to expand fossil-fuel-based electricity generation to ensure grid stability.</p>
+      <p>The proposed cross-agency policy integration is feasible, given Indonesia&#x2019;s abundant renewable energy resources, particularly geothermal and solar power [<xref ref-type="bibr" rid="B59-sustainability-17-04681">59</xref>]. Furthermore, the country&#x2019;s consistent economic growth and stable fiscal condition over the past decade enhance the practical viability of the Moderate Scenario [<xref ref-type="bibr" rid="B58-sustainability-17-04681">58</xref>]. In implementation, the government could develop a transportation roadmap aligned with sustainable development principles, particularly those outlined in the SDGs framework under Presidential Regulation No. 59/2017 [<xref ref-type="bibr" rid="B60-sustainability-17-04681">60</xref>].</p>
+      <p>Looking ahead, future research could be enhanced by integrating Agent-Based Modeling (ABM) to capture micro-level behavioral dynamics of vehicle users, as well as spatial data analysis to examine regional disparities in impact. Moreover, incorporating variables related to public transport usage and social dimensions&#x2014;such as consumer preferences, technology gaps, and energy justice&#x2014;would enrich the policy analysis of sustainable transportation transitions in Indonesia.</p>
+      <p>However, one of the main limitations of this study lies in the scope of available data. The analysis relies exclusively on data from Google EIE, which, at present, is only available for NTB Province. This geographic limitation constrains the generalizability of the findings across Indonesia&#x2019;s diverse regional contexts. Nevertheless, NTB serves as a relevant case study due to its archipelagic nature and medium island size&#x2014;characteristics shared by many other Indonesian provinces. To overcome this constraint, this study advocates for other local governments in Indonesia to actively collaborate with Google EIE to enable wider access to strategic transportation and emissions data. Expanding such collaborations would not only support more comprehensive policy analyses at the national level but also help standardize data-driven planning for low-carbon transportation transitions.</p>
+      <p>Furthermore, the methodological framework and findings of this study may serve as a reference for other island nations or archipelagic regions that share similar conditions&#x2014;namely, fragmented geography, abundant RE potential, and emerging plans to adopt EVs. With improved data coverage and tailored policy modeling, future research can play a crucial role in guiding sustainable mobility strategies in such contexts.</p>
+    </sec>
+  </body>
+  <back>
+    <notes>
+      <title>Author Contributions</title>
+      <p>All the authors contributed to this study&#x2019;s conception and design. G.J. designed the idea for the article, the literature search, and the data analysis. G.J. wrote the first draft of the manuscript, and T.P. and S.W. performed critical revision of the work. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes>
+      <title>Data Availability Statement</title>
+      <p>The raw data supporting the conclusions of this article will be made available by the authors on request.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflicts of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-sustainability-17-04681">
+        <label>1.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional</collab>
+          </person-group>
+          <source>Peta Jalan SDGs Indonesia Menuju 2030</source>
+          <publisher-name>Kementerian PPN/Bappenas</publisher-name>
+          <publisher-loc>Jakarta, Indonesia</publisher-loc>
+          <year>2021</year>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://sdgs.bappenas.go.id/website/wp-content/uploads/2021/02/Roadmap_Bahasa-Indonesia_File-Upload.pdf" ext-link-type="uri">https://sdgs.bappenas.go.id/website/wp-content/uploads/2021/02/Roadmap_Bahasa-Indonesia_File-Upload.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-24">(accessed on 24 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B2-sustainability-17-04681">
+        <label>2.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional</collab>
+          </person-group>
+          <source>Laporan Pelaksanaan Pencapaian Tujuan Pembangunan Berkelanjutan/Sustainable Development Goals (TPB/SDGs) Tahun 2023</source>
+          <publisher-name>Kementerian PPN/Bappenas</publisher-name>
+          <publisher-loc>Jakarta, Indonesia</publisher-loc>
+          <year>2023</year>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://sdgs.bappenas.go.id/product/sdgs-2023/" ext-link-type="uri">https://sdgs.bappenas.go.id/product/sdgs-2023/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-30">(accessed on 30 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B3-sustainability-17-04681">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Banister</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sustainable urban development and transport&#x2014;A Eurovision for 2020</article-title>
+          <source>Transp. Rev.</source>
+          <year>2000</year>
+          <volume>20</volume>
+          <fpage>113</fpage>
+          <lpage>130</lpage>
+          <pub-id pub-id-type="doi">10.1080/014416400295365</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-sustainability-17-04681">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Banister</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>The sustainable mobility paradigm</article-title>
+          <source>Transp. Policy</source>
+          <year>2008</year>
+          <volume>15</volume>
+          <fpage>73</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tranpol.2007.10.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-sustainability-17-04681">
+        <label>5.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gudmundsson</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>R.P.</given-names>
+            </name>
+            <name>
+              <surname>Marsden</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Zietsman</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Sustainable Transportation</source>
+          <publisher-name>Springer</publisher-name>
+          <publisher-loc>Berlin/Heidelberg, Germany</publisher-loc>
+          <year>2016</year>
+        </element-citation>
+      </ref>
+      <ref id="B6-sustainability-17-04681">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ardiyanti</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kurniawan</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Raokter</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Wikansari</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analisis Penjualan Mobil Listrik Di Indonesia Dalam Rentang Waktu 2020&#x2013;2023</article-title>
+          <source>J. Econ. Manag.</source>
+          <year>2023</year>
+          <volume>1</volume>
+          <fpage>114</fpage>
+          <lpage>122</lpage>
+          <pub-id pub-id-type="doi">10.55681/ecoma.v1i3.26</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-sustainability-17-04681">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Canals Casals</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Martinez-Laserna</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Amante Garc&#xED;a</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Nieto</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sustainability analysis of the electric vehicle use in Europe for CO<sub>2</sub> emissions reduction</article-title>
+          <source>J. Clean. Prod.</source>
+          <year>2016</year>
+          <volume>127</volume>
+          <fpage>425</fpage>
+          <lpage>437</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jclepro.2016.03.120</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-sustainability-17-04681">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Atabani</surname>
+              <given-names>A.E.</given-names>
+            </name>
+            <name>
+              <surname>Badruddin</surname>
+              <given-names>I.A.</given-names>
+            </name>
+            <name>
+              <surname>Mekhilef</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Silitonga</surname>
+              <given-names>A.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A review on global fuel economy standards, labels and technologies in the transportation sector</article-title>
+          <source>Renew. Sustain. Energy Rev.</source>
+          <year>2011</year>
+          <volume>15</volume>
+          <fpage>4586</fpage>
+          <lpage>4610</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.rser.2011.07.092</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-sustainability-17-04681">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aziz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Marcellino</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Rizki</surname>
+              <given-names>I.A.</given-names>
+            </name>
+            <name>
+              <surname>Ikhwanuddin</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Simatupang</surname>
+              <given-names>J.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studi analisis perkembangan teknologi dan dukungan pemerintah Indonesia terkait mobil listrik</article-title>
+          <source>TESLA J. Tek. Elektro</source>
+          <year>2020</year>
+          <volume>22</volume>
+          <fpage>45</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.24912/tesla.v22i1.7898</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-sustainability-17-04681">
+        <label>10.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>IESR (Institute for Essential Services Reform)</collab>
+          </person-group>
+          <source>Indonesia Energy Transition Outlook 2023, Tracking Progress of Energy Transition in Indonesia: Pursuing Energy Security in the Time of Transition</source>
+          <publisher-name>Institute for Essential Services Reform (IESR)</publisher-name>
+          <publisher-loc>Jakarta, Indonesia</publisher-loc>
+          <year>2022</year>
+        </element-citation>
+      </ref>
+      <ref id="B11-sustainability-17-04681">
+        <label>11.</label>
+        <element-citation publication-type="standard">
+          <std>Statistik PLN 2023</std>
+          <source>PT</source>
+          <publisher-name>PLN</publisher-name>
+          <publisher-loc>Jakarta, Indonesia</publisher-loc>
+          <year>2024</year>
+        </element-citation>
+      </ref>
+      <ref id="B12-sustainability-17-04681">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holmberg</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Erdemir</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of tribology on energy use and CO2 emission globally and in combustion engine and electric cars</article-title>
+          <source>Tribol. Int.</source>
+          <year>2019</year>
+          <volume>135</volume>
+          <fpage>389</fpage>
+          <lpage>396</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.triboint.2019.03.024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-sustainability-17-04681">
+        <label>13.</label>
+        <element-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>Kementerian Energi dan Sumber Daya Mineral (KESDM)</collab>
+          </person-group>
+          <source>Ini Strategi Pemerintah Tekan Impor Migas</source>
+          <comment>ESDM, 27 August 2024</comment>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.esdm.go.id/id/media-center/arsip-berita/-ini-strategi-pemerintah-tekan-impor-migas-" ext-link-type="uri">https://www.esdm.go.id/id/media-center/arsip-berita/-ini-strategi-pemerintah-tekan-impor-migas-</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-03">(accessed on 3 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B14-sustainability-17-04681">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Santos-Paulino</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Thirlwall</surname>
+              <given-names>A.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Impact of Trade Liberalisation on Exports, Imports and the Balance of payments of Developing Countries</article-title>
+          <source>Econ. J.</source>
+          <year>2004</year>
+          <volume>114</volume>
+          <fpage>F50</fpage>
+          <lpage>F72</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.0013-0133.2004.00187.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-sustainability-17-04681">
+        <label>15.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Government of Indonesia</collab>
+          </person-group>
+          <source>Enhanced Nationally Determined Contribution (NDC) Republic of Indonesia</source>
+          <publisher-name>Ministry of Environment and Forestry</publisher-name>
+          <publisher-loc>Jakarta, Indonesia</publisher-loc>
+          <year>2022</year>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://unfccc.int/sites/default/files/NDC/2022-09/23.09.2022_Enhanced%20NDC%20Indonesia.pdf" ext-link-type="uri">https://unfccc.int/sites/default/files/NDC/2022-09/23.09.2022_Enhanced%20NDC%20Indonesia.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2025-01-03">(accessed on 3 January 2025)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B16-sustainability-17-04681">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Albatayneh</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Assaf</surname>
+              <given-names>M.N.</given-names>
+            </name>
+            <name>
+              <surname>Alterman</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Jaradat</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of the Overall Energy Efficiency for Internal Combustion Engine Vehicles and Electric Vehicles</article-title>
+          <source>Environ. Climate Technol.</source>
+          <year>2020</year>
+          <volume>24</volume>
+          <fpage>669</fpage>
+          <lpage>680</lpage>
+          <pub-id pub-id-type="doi">10.2478/rtuect-2020-0041</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-sustainability-17-04681">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arioli</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>D&#x2019;Agosto</surname>
+              <given-names>M.d.A.</given-names>
+            </name>
+            <name>
+              <surname>Amaral</surname>
+              <given-names>F.G.</given-names>
+            </name>
+            <name>
+              <surname>Cybis</surname>
+              <given-names>H.B.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>The evolution of city-scale GHG emissions inventory methods: A systematic review</article-title>
+          <source>Environ. Impact Assess. Rev.</source>
+          <year>2020</year>
+          <volume>80</volume>
+          <fpage>106316</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.eiar.2019.106316</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-sustainability-17-04681">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Magazzino</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Costantiello</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Laureti</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Leogrande</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gattone</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Greenhouse gas emissions and road infrastructure in Europe: A machine learning analysis</article-title>
+          <source>Transp. Res. Part D Transp. Environ.</source>
+          <year>2025</year>
+          <volume>139</volume>
+          <fpage>104602</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.trd.2025.104602</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-sustainability-17-04681">
+        <label>19.</label>
+        <element-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>Google</collab>
+          </person-group>
+          <article-title>Environmental Insights Explorer: Methodology</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://insights.sustainability.google/methodology?hl=en-US" ext-link-type="uri">https://insights.sustainability.google/methodology?hl=en-US</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-10-05">(accessed on 5 October 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B20-sustainability-17-04681">
+        <label>20.</label>
+        <element-citation publication-type="web">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van Groenou</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Accelerating City Climate Action with High Resolution Geospatial Data</article-title>
+          <comment>Medium, 8 October 2019</comment>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://medium.com/google-earth/accelerating-city-climate-action-with-high-resolution-geospatial-data-f7b489c9e9f6" ext-link-type="uri">https://medium.com/google-earth/accelerating-city-climate-action-with-high-resolution-geospatial-data-f7b489c9e9f6</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2025-01-03">(accessed on 3 January 2025)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B21-sustainability-17-04681">
+        <label>21.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meadows</surname>
+              <given-names>D.H.</given-names>
+            </name>
+          </person-group>
+          <source>Thinking in Systems</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Wright</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Earthscan</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>2009</year>
+        </element-citation>
+      </ref>
+      <ref id="B22-sustainability-17-04681">
+        <label>22.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Forrester</surname>
+              <given-names>J.W.</given-names>
+            </name>
+          </person-group>
+          <source>Industrial Dynamics</source>
+          <publisher-name>M.I.T. Press</publisher-name>
+          <publisher-loc>Cambridge, MA, USA</publisher-loc>
+          <year>1961</year>
+        </element-citation>
+      </ref>
+      <ref id="B23-sustainability-17-04681">
+        <label>23.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirkwood</surname>
+              <given-names>C.W.</given-names>
+            </name>
+          </person-group>
+          <source>System Dynamics Methods: A Quick Introduction</source>
+          <publisher-name>College of Business Arizona State University</publisher-name>
+          <publisher-loc>Tempe, AZ, USA</publisher-loc>
+          <year>1998</year>
+        </element-citation>
+      </ref>
+      <ref id="B24-sustainability-17-04681">
+        <label>24.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sterman</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Business Dynamics: Systems Thinking and Modeling for a Complex World</source>
+          <publisher-name>Irwin/McGraw-Hill</publisher-name>
+          <publisher-loc>Dubuque, OH, USA</publisher-loc>
+          <year>2000</year>
+        </element-citation>
+      </ref>
+      <ref id="B25-sustainability-17-04681">
+        <label>25.</label>
+        <element-citation publication-type="web">
+          <person-group person-group-type="author">
+            <name>
+              <surname>EIE</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>West Nusa Tenggara, Transportation Emissions</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://insights.sustainability.google/places/ChIJIe0SGpQNuC0RxXX30MzCZ2k/transportation?hl=en-US" ext-link-type="uri">https://insights.sustainability.google/places/ChIJIe0SGpQNuC0RxXX30MzCZ2k/transportation?hl=en-US</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-10-07">(accessed on 7 October 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B26-sustainability-17-04681">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Astuti</surname>
+              <given-names>I.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Subsidi Pembelian Motor Listrik Roda Dua Dalam Upaya Meningkatkan Daya Beli Masyarakat</article-title>
+          <source>Dialogue: J. Ilmu Adm. Publik</source>
+          <year>2024</year>
+          <volume>6</volume>
+          <fpage>656</fpage>
+          <lpage>662</lpage>
+          <pub-id pub-id-type="doi">10.14710/dialogue.v6i1.20543</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-sustainability-17-04681">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Langer</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Quist</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Blok</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Review of renewable energy potentials in Indonesia and their contribution to a 100% renewable electricity system</article-title>
+          <source>Energies</source>
+          <year>2021</year>
+          <volume>14</volume>
+          <elocation-id>7033</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/en14217033</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-sustainability-17-04681">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sayyadi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Awasthi</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>An integrated approach based on system dynamics and ANP for evaluating sustainable transportation policies</article-title>
+          <source>Int. J. Syst. Sci. Oper. Logist.</source>
+          <year>2020</year>
+          <volume>7</volume>
+          <fpage>182</fpage>
+          <lpage>191</lpage>
+          <pub-id pub-id-type="doi">10.1080/23302674.2018.1554168</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-sustainability-17-04681">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>System Dynamics Model of Urban Transportation System and Its Application</article-title>
+          <source>J. Transp. Syst. Eng. Inf. Technol.</source>
+          <year>2008</year>
+          <volume>8</volume>
+          <fpage>83</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1570-6672(08)60027-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-sustainability-17-04681">
+        <label>30.</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scholl</surname>
+              <given-names>H.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Agent-based and system dynamics modeling: A call for cross study and joint research</article-title>
+          <source>Proceedings of the Proceedings of the 34th Annual Hawaii International Conference on System Sciences</source>
+          <conf-loc>Maui, HI, USA</conf-loc>
+          <conf-date>6 January 2001</conf-date>
+          <fpage>8</fpage>
+        </element-citation>
+      </ref>
+      <ref id="B31-sustainability-17-04681">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coyle</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Qualitative and quantitative modelling in system dynamics: Some research questions</article-title>
+          <source>Syst. Dyn. Rev.</source>
+          <year>2000</year>
+          <volume>16</volume>
+          <fpage>225</fpage>
+          <lpage>244</lpage>
+          <pub-id pub-id-type="doi">10.1002/1099-1727(200023)16:3&lt;225::AID-SDR195&gt;3.0.CO;2-D</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-sustainability-17-04681">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bure&#x161;</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Method for Simplification of Complex Group Causal Loop Diagrams Based on Endogenisation, Encapsulation and Order-Oriented Reduction</article-title>
+          <source>Systems</source>
+          <year>2017</year>
+          <volume>5</volume>
+          <elocation-id>46</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/systems5030046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-sustainability-17-04681">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Onat</surname>
+              <given-names>N.C.</given-names>
+            </name>
+            <name>
+              <surname>Kucukvar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tatari</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Egilmez</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Integration of system dynamics approach toward deepening and broadening the life cycle sustainability assessment framework: A case for electric vehicles</article-title>
+          <source>Int. J. Life Cycle Assess.</source>
+          <year>2016</year>
+          <volume>21</volume>
+          <fpage>1009</fpage>
+          <lpage>1034</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11367-016-1070-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-sustainability-17-04681">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wetwitoo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kato</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inter-regional transportation and economic productivity: A case study of regional agglomeration economies in Japan</article-title>
+          <source>Ann. Reg. Sci.</source>
+          <year>2017</year>
+          <volume>59</volume>
+          <fpage>321</fpage>
+          <lpage>344</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00168-017-0833-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35-sustainability-17-04681">
+        <label>35.</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kutty</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Yetiskin</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Abraham</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Nooh</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Kucukvar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Abdella</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>An empirical assessment on the transportation sustainability indicators and their impact on economic productivity</article-title>
+          <source>Proceedings of the 5th NA Conference on Industrial Engineering and Operations Management</source>
+          <conf-loc>Detroit, Michigan, USA</conf-loc>
+          <conf-date>10&#x2013;14 August 2020</conf-date>
+          <fpage>10</fpage>
+          <lpage>14</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B36-sustainability-17-04681">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fankhauser</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tol</surname>
+              <given-names>R.S.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>On climate change and economic growth</article-title>
+          <source>Resour. Energy Econ.</source>
+          <year>2005</year>
+          <volume>27</volume>
+          <fpage>1</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.reseneeco.2004.03.003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37-sustainability-17-04681">
+        <label>37.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Intergovernmental Panel on Climate</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Global Warming of 1.5 &#xB0;C: IPCC Special Report on Impacts of Global Warming of 1.5 &#xB0;C Above Pre-industrial Levels in Context of Strengthening Response to Climate Change, Sustainable Development, and Efforts to Eradicate Poverty</source>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <publisher-loc>Cambridge, MA, USA</publisher-loc>
+          <year>2022</year>
+        </element-citation>
+      </ref>
+      <ref id="B38-sustainability-17-04681">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Masters</surname>
+              <given-names>W.A.</given-names>
+            </name>
+            <name>
+              <surname>McMillan</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate and Scale in Economic Growth</article-title>
+          <source>J. Econ. Growth</source>
+          <year>2001</year>
+          <volume>6</volume>
+          <fpage>167</fpage>
+          <lpage>186</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1011398431524</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39-sustainability-17-04681">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lelieveld</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Klingm&#xFC;ller</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Pozzer</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Burnett</surname>
+              <given-names>R.T.</given-names>
+            </name>
+            <name>
+              <surname>Haines</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ramanathan</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of fossil fuel and total anthropogenic emission removal on public health and climate</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2019</year>
+          <volume>116</volume>
+          <fpage>7192</fpage>
+          <lpage>7197</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1819989116</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40-sustainability-17-04681">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Woodcock</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tonne</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Armstrong</surname>
+              <given-names>B.G.</given-names>
+            </name>
+            <name>
+              <surname>Ashiru</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Banister</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Beevers</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Chalabi</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Chowdhury</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Public health benefits of strategies to reduce greenhouse-gas emissions: Urban land transport</article-title>
+          <source>Lancet</source>
+          <year>2009</year>
+          <volume>374</volume>
+          <fpage>P1930</fpage>
+          <lpage>P1943</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(09)61714-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B41-sustainability-17-04681">
+        <label>41.</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lonan</surname>
+              <given-names>E.S.</given-names>
+            </name>
+            <name>
+              <surname>Ardi</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electric Vehicle Diffusion in the Indonesian Automobile Market: A System Dynamics Modelling</article-title>
+          <source>Proceedings of the 2020 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)</source>
+          <conf-loc>Singapore</conf-loc>
+          <conf-date>14&#x2013;17 December 2020</conf-date>
+          <fpage>43</fpage>
+          <lpage>47</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B42-sustainability-17-04681">
+        <label>42.</label>
+        <element-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>Gaikindo</collab>
+          </person-group>
+          <article-title>Jumlah Kendaraan di Indonesia 147 Juta Unit, 60 Persen di Pulau Jawa</article-title>
+          <year>2023</year>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.gaikindo.or.id/jumlah-kendaraan-di-indonesia-147-juta-unit-60-persen-di-pulau-jawa/" ext-link-type="uri">https://www.gaikindo.or.id/jumlah-kendaraan-di-indonesia-147-juta-unit-60-persen-di-pulau-jawa/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-11-17">(accessed on 17 November 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B43-sustainability-17-04681">
+        <label>43.</label>
+        <element-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>Gaikindo</collab>
+          </person-group>
+          <article-title>Bagaimana Tren Penjualan Mobil di Indonesia Pada 2025?</article-title>
+          <year>2025</year>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.gaikindo.or.id/bagaimana-tren-penjualan-mobil-di-indonesia-pada-2025/" ext-link-type="uri">https://www.gaikindo.or.id/bagaimana-tren-penjualan-mobil-di-indonesia-pada-2025/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-11-17">(accessed on 17 November 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B44-sustainability-17-04681">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rizky</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Pratiwi</surname>
+              <given-names>T.S.</given-names>
+            </name>
+            <name>
+              <surname>Wibawa</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Achdiyana</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peran Negara G20 dalam Percepatan Transisi Energi Baru Terbarukan (EBT) untuk Mewujudkan Ketahanan Energi Nasional</article-title>
+          <source>Ketahanan Nas. J.</source>
+          <year>2024</year>
+          <volume>29</volume>
+          <fpage>3</fpage>
+          <pub-id pub-id-type="doi">10.22146/jkn.88751</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45-sustainability-17-04681">
+        <label>45.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>G&#xF3;mez</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Watterson</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Americano</surname>
+              <given-names>B.B.</given-names>
+            </name>
+            <name>
+              <surname>Ha</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Marland</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Matsika</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Namayanga</surname>
+              <given-names>L.N.</given-names>
+            </name>
+            <name>
+              <surname>Osman-Elasha</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Saka</surname>
+              <given-names>J.D.K.</given-names>
+            </name>
+            <name>
+              <surname>Treanton</surname>
+              <given-names>K.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <source>2006 IPCC Guidelines for National Greenhouse Gas Inventories. Volume 2: Energy. Chapter 2: Stationary Combustion</source>
+          <publisher-name>Intergovernmental Panel on Climate Change (IPCC), IGES</publisher-name>
+          <publisher-loc>Hayama, Japan</publisher-loc>
+          <year>2006</year>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_2_Ch2_Stationary_Combustion.pdf" ext-link-type="uri">https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_2_Ch2_Stationary_Combustion.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2025-01-11">(accessed on 11 January 2025)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B46-sustainability-17-04681">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>A real-time optimization energy management of range extended electric vehicles for battery lifetime and energy consumption</article-title>
+          <source>J. Power Sources</source>
+          <year>2021</year>
+          <volume>498</volume>
+          <fpage>229939</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.jpowsour.2021.229939</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B47-sustainability-17-04681">
+        <label>47.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>BPS (BPS)</collab>
+          </person-group>
+          <source>Pertumbuhan Ekonomi Nusa Tenggara Barat Triwulan IV-2023</source>
+          <publisher-name>BPS</publisher-name>
+          <publisher-loc>Mataram, Indonesia</publisher-loc>
+          <year>2024</year>
+        </element-citation>
+      </ref>
+      <ref id="B48-sustainability-17-04681">
+        <label>48.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>ESDM, D. (Dinas ESDM Nusa Tenggara Barat)</collab>
+          </person-group>
+          <source>Laporan Kinerja Instansi Pemerintah</source>
+          <publisher-name>Dinas ESDM Nusa Tenggara Barat</publisher-name>
+          <publisher-loc>Mataram, Indonesia</publisher-loc>
+          <year>2023</year>
+        </element-citation>
+      </ref>
+      <ref id="B49-sustainability-17-04681">
+        <label>49.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>ESDM, K.</collab>
+          </person-group>
+          <source>Konferensi Pers Capaian 2023, Konsumsi Listrik Per Kapita Lebihi Target</source>
+          <publisher-name>Ministry of Energy and Mineral Resources (KESDM)</publisher-name>
+          <publisher-loc>Jakarta, Indonesia</publisher-loc>
+          <year>2024</year>
+        </element-citation>
+      </ref>
+      <ref id="B50-sustainability-17-04681">
+        <label>50.</label>
+        <element-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>NTB</surname>
+              <given-names>P.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rencana Umum Ketenagalistrikan Daerah Provinsi Nusa Tenggara Barat, Tahun 2015&#x2013;2034</article-title>
+          <comment>NTB, P.P.</comment>
+          <year>2016</year>
+        </element-citation>
+      </ref>
+      <ref id="B51-sustainability-17-04681">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rajah</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Kopainsky</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>A systematic method to integrate co-produced causal loop diagrams based on feedback stories</article-title>
+          <source>Syst. Dyn. Rev.</source>
+          <year>2025</year>
+          <volume>41</volume>
+          <fpage>e1794</fpage>
+          <pub-id pub-id-type="doi">10.1002/sdr.1794</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B52-sustainability-17-04681">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stave</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Participatory System Dynamics Modeling for Sustainable Environmental Management: Observations from Four Cases</article-title>
+          <source>Sustainability</source>
+          <year>2010</year>
+          <volume>2</volume>
+          <fpage>2762</fpage>
+          <lpage>2784</lpage>
+          <pub-id pub-id-type="doi">10.3390/su2092762</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B53-sustainability-17-04681">
+        <label>53.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miles</surname>
+              <given-names>M.B.</given-names>
+            </name>
+            <name>
+              <surname>Huberman</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <source>Qualitative Data Analysis: An Expanded Sourcebook</source>
+          <publisher-name>SAGE Publications</publisher-name>
+          <publisher-loc>Washington, DC, USA</publisher-loc>
+          <year>1994</year>
+          <volume>Volume 3</volume>
+        </element-citation>
+      </ref>
+      <ref id="B54-sustainability-17-04681">
+        <label>54.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Jakarta, D.P.D. (Dinas Lingkungan Hidup Provinsi DKI Jakarta)</collab>
+          </person-group>
+          <source>Inventarisasi Profil Emisi dan Pelaporan Penurunan Emisi Gas Rumah Kaca Provinsi DKI Jakarta</source>
+          <publisher-name>Dinas Lingkungan Hidup Provinsi DKI Jakarta</publisher-name>
+          <publisher-loc>Jakarta, Indonesia</publisher-loc>
+          <year>2023</year>
+        </element-citation>
+      </ref>
+      <ref id="B55-sustainability-17-04681">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hartono</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analisa Kenaikan Harga Bahan Bakar Minyak Tahun 2014 Dalam Perspektif Pendanaan Pembangunan di Indonesia</article-title>
+          <source>J. Ilm. Pendidik. Dan Ekon.</source>
+          <year>2023</year>
+          <volume>7</volume>
+          <fpage>84</fpage>
+          <lpage>95</lpage>
+          <pub-id pub-id-type="doi">10.30599/utility.v7i02.2391</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B56-sustainability-17-04681">
+        <label>56.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silalahi</surname>
+              <given-names>D.F.</given-names>
+            </name>
+            <name>
+              <surname>Blakers</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>100% Renewable Electricity in Indonesia</article-title>
+          <source>Energies</source>
+          <year>2024</year>
+          <volume>17</volume>
+          <elocation-id>3</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/en17010003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B57-sustainability-17-04681">
+        <label>57.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Istiqamah</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Sasongko</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Boedoyo</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analisis dampak lingkungan dan life cycle cost pembangkit listrik tenaga panas bumi</article-title>
+          <source>E.J. Ekon. Sumberdaya&#xC2; Dan Lingkung.</source>
+          <year>2023</year>
+          <volume>12</volume>
+          <fpage>39</fpage>
+          <lpage>48</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B58-sustainability-17-04681">
+        <label>58.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keuangan</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>APBN 2019</article-title>
+          <publisher-name>Sekretariat Negara</publisher-name>
+          <publisher-loc>Jakarta, Indonesia</publisher-loc>
+          <year>2019</year>
+        </element-citation>
+      </ref>
+      <ref id="B59-sustainability-17-04681">
+        <label>59.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nasruddin</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Idrus Alhamid</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Daud</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Surachman</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sugiyono</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Aditya</surname>
+              <given-names>H.B.</given-names>
+            </name>
+            <name>
+              <surname>Mahlia</surname>
+              <given-names>T.M.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Potential of geothermal energy for electricity generation in Indonesia: A review</article-title>
+          <source>Renew. Sustain. Energy Rev.</source>
+          <year>2016</year>
+          <volume>53</volume>
+          <fpage>733</fpage>
+          <lpage>740</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.rser.2015.09.032</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B60-sustainability-17-04681">
+        <label>60.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>BPK</collab>
+          </person-group>
+          <source>Peraturan Presiden (PERPRES) Nomor 59 Tahun 2017. Pelaksanaan Pencapaian Tujuan Pembangunan Berkelanjutan</source>
+          <publisher-name>BPK</publisher-name>
+          <publisher-loc>Jakarta, Indonesia</publisher-loc>
+          <year>2017</year>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Tables</title>
+      <fig id="sustainability-17-04681-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Research methods and steps with the SD approach.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g001.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Google EIE&#x2019;s emissions inventory method uses a bottom-up concept.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g002.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>The KLHK emission inventory method uses a top-down concept.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g003.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>Transportation Driver Subsystem.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g004.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f005" position="float">
+        <label>Figure 5</label>
+        <caption>
+          <p>EV transportation mode model structure.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g005.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f006" position="float">
+        <label>Figure 6</label>
+        <caption>
+          <p>ICE transport mode model structure.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g006.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f007" position="float">
+        <label>Figure 7</label>
+        <caption>
+          <p>The integration of EV and ICE systems shows the systemic loop from energy consumption to GHG impacts.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g007.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f008" position="float">
+        <label>Figure 8</label>
+        <caption>
+          <p>Stock and flow diagram for EV transition.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g008.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f009" position="float">
+        <label>Figure 9</label>
+        <caption>
+          <p>Dynamic parameter determination in three scenarios: BAU Scenario, Moderate Scenario, and Optimistic Scenario.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g009.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f010" position="float">
+        <label>Figure 10</label>
+        <caption>
+          <p>Projection results of parameters from three scenarios: BAU Scenario, Moderate Scenario, and Optimistic Scenario.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g010.tif"/>
+      </fig>
+      <fig id="sustainability-17-04681-f011" position="float">
+        <label>Figure 11</label>
+        <caption>
+          <p>The Moderate Scenario can reduce fuel consumption by up to 25%, which means it can reduce dependence on fuel imports by around 60%.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sustainability-17-04681-g011.tif"/>
+      </fig>
+      <table-wrap id="sustainability-17-04681-t001" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Motorcycle&#x2014;ICE activity data obtained from Google EIE.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Year</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Number of Trips</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">ICE Mileage</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Emission (ton CO<sub>2</sub>e)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2023</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3,770,612,726</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20,535,350,264</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">831,515</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2022</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3,373,831,030</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">19,495,880,467</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">781,724</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2021</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2,297,216,164</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">13,676,718,911</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">544,526</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2020</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1,933,175,605</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11,215,926,543</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">454,154</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2019</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2,495,195,996</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">17,319,868,015</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">701,314</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2018</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2,454,527,066</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">16,949,709,689</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">656,972</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Source: Google EIE, NTB Province [<xref ref-type="bibr" rid="B25-sustainability-17-04681">25</xref>].</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="sustainability-17-04681-t002" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Car&#x2014;ICE activity data obtained from Google EIE.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Year</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Number of Trips</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">ICE Mileage</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Emission (ton CO<sub>2</sub>e)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2023</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">602,721,596</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">7,355,241,637</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1,785,491</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2022</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">548,137,303</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">6,920,858,167</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1,680,209</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2021</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">421,102,242</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">5,074,689,485</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1,238,606</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2020</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">296,019,084</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3,687,513,274</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">875,390</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2019</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">580,655,166</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">9,182,477,596</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2,037,632</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2018</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">751,011,868</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">12,282,064,342</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2,818,203</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Source: Google EIE, NTB Province [<xref ref-type="bibr" rid="B25-sustainability-17-04681">25</xref>].</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="sustainability-17-04681-t003" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Aspects and variables of EV transition model.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Aspect</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variable</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Value</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Unit</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Data Source</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle">Transportation</td>
+              <td align="left" valign="middle">Number of Trips</td>
+              <td align="left" valign="middle">603 million</td>
+              <td align="left" valign="middle">Times</td>
+              <td align="left" valign="middle">Google EIE </td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Total Travel Distance</td>
+              <td align="left" valign="middle">6.76 billion</td>
+              <td align="left" valign="middle">Kilometers</td>
+              <td align="left" valign="middle">Google EIE</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Number of EVs</td>
+              <td align="left" valign="middle">72,360</td>
+              <td align="left" valign="middle">Units</td>
+              <td align="left" valign="middle">Gaikindo</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Number of ICE</td>
+              <td align="left" valign="middle">20.1 million</td>
+              <td align="left" valign="middle">Units</td>
+              <td align="left" valign="middle">Gaikindo</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Emission from ICE</td>
+              <td align="left" valign="middle">1.7 million</td>
+              <td align="left" valign="middle">tCO<sub>2</sub>e</td>
+              <td align="left" valign="middle">Google EIE</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Economy</td>
+              <td align="left" valign="middle">Gross Regional Domestic Product (GDRP</td>
+              <td align="left" valign="middle">43.6 trillion</td>
+              <td align="left" valign="middle">Rupiah</td>
+              <td align="left" valign="middle">BPS</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Population</td>
+              <td align="left" valign="middle">5.67 million</td>
+              <td align="left" valign="middle">People</td>
+              <td align="left" valign="middle">BPS</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Fuel Import Expenditure</td>
+              <td align="left" valign="middle">2 trillion</td>
+              <td align="left" valign="middle">Rupiah</td>
+              <td align="left" valign="middle">ESDM</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Total Fuel Demand</td>
+              <td align="left" valign="middle">426,648</td>
+              <td align="left" valign="middle">Kiloliters</td>
+              <td align="left" valign="middle">ESDM</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Total Electricity Demand</td>
+              <td align="left" valign="middle">2572</td>
+              <td align="left" valign="middle">GWh</td>
+              <td align="left" valign="middle">PLN</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Electricity Supply</td>
+              <td align="left" valign="middle">695.84</td>
+              <td align="left" valign="middle">MW</td>
+              <td align="left" valign="middle">PLN</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Coal Consumption</td>
+              <td align="left" valign="middle">659,685</td>
+              <td align="left" valign="middle">Tons</td>
+              <td align="left" valign="middle">ESDM</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Inflation Rate</td>
+              <td align="left" valign="middle">2.61</td>
+              <td align="left" valign="middle">Percent</td>
+              <td align="left" valign="middle">BPS</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Environment</td>
+              <td align="left" valign="middle">Temperature Increase</td>
+              <td align="left" valign="middle">1.5</td>
+              <td align="left" valign="middle">Celsius</td>
+              <td align="left" valign="middle">IPCC</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Number of Hydrological Disaster</td>
+              <td align="left" valign="middle">105</td>
+              <td align="left" valign="middle">Events</td>
+              <td align="left" valign="middle">BPS</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">Decline in Rice Production</td>
+              <td align="left" valign="middle">5.53</td>
+              <td align="left" valign="middle">Percent</td>
+              <td align="left" valign="middle">BPS</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Social</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Public Health Index</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">39.4</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Percent</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">BPS</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Compiled from various sources [<xref ref-type="bibr" rid="B25-sustainability-17-04681">25</xref>,<xref ref-type="bibr" rid="B37-sustainability-17-04681">37</xref>,<xref ref-type="bibr" rid="B42-sustainability-17-04681">42</xref>,<xref ref-type="bibr" rid="B43-sustainability-17-04681">43</xref>,<xref ref-type="bibr" rid="B47-sustainability-17-04681">47</xref>,<xref ref-type="bibr" rid="B48-sustainability-17-04681">48</xref>,<xref ref-type="bibr" rid="B49-sustainability-17-04681">49</xref>,<xref ref-type="bibr" rid="B50-sustainability-17-04681">50</xref>].</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="sustainability-17-04681-t004" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t004_Table 4</object-id>
+        <label>Table 4</label>
+        <caption>
+          <p>Parameters of EV transition model.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variable</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Value</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Unit</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Data Source</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle">Annual Vehicle Growth Rate</td>
+              <td align="left" valign="middle">4.2</td>
+              <td align="left" valign="middle">Percent</td>
+              <td align="left" valign="middle">Gaikindo</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Average Travel Distance</td>
+              <td align="left" valign="middle">11.3</td>
+              <td align="left" valign="middle">Kilometers</td>
+              <td align="left" valign="middle">Google EIE</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">ICE Travel Distance per Liter</td>
+              <td align="left" valign="middle">8.98</td>
+              <td align="left" valign="middle">Kilometers</td>
+              <td align="left" valign="middle">Google EIE</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Fuel Consumption of ICE per Kilometer</td>
+              <td align="left" valign="middle">0.111</td>
+              <td align="left" valign="middle">Liters</td>
+              <td align="left" valign="middle">Google EIE</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Electricity Consumption per Kilometer (EV)</td>
+              <td align="left" valign="middle">0.33</td>
+              <td align="left" valign="middle">KWh/Km</td>
+              <td align="left" valign="middle">Li, et al. [<xref ref-type="bibr" rid="B46-sustainability-17-04681">46</xref>]</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Average Annual EV Growth Rate in Past Five Years</td>
+              <td align="left" valign="middle">331</td>
+              <td align="left" valign="middle">Percent</td>
+              <td align="left" valign="middle">Gaikindo</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Annual Electricity Consumption Growth Rate</td>
+              <td align="left" valign="middle">6.6</td>
+              <td align="left" valign="middle">Percent</td>
+              <td align="left" valign="middle">ESDM</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">RE Production Ratio in NTB</td>
+              <td align="left" valign="middle">22.43</td>
+              <td align="left" valign="middle">Percent</td>
+              <td align="left" valign="middle">ESDM</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Fuel Import Ratio</td>
+              <td align="left" valign="middle">57</td>
+              <td align="left" valign="middle">Percent</td>
+              <td align="left" valign="middle">ESDM</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Coal Emission Factor</td>
+              <td align="left" valign="middle">0.00034</td>
+              <td align="left" valign="middle">tCO<sub>2</sub>e/Ton</td>
+              <td align="left" valign="middle">IPCC</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Coal Requirement per 1 MW Generation</td>
+              <td align="left" valign="middle">0.0007</td>
+              <td align="left" valign="middle">Tons</td>
+              <td align="left" valign="middle">IPCC</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Annual Growth of Coal Power Plant (PLTU)</td>
+              <td align="left" valign="middle">10</td>
+              <td align="left" valign="middle">Percent</td>
+              <td align="left" valign="middle">PLN NTB</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Fuel Emission Factor</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">0.002</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">tCO<sub>2</sub>e/Liter</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Google EIE</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Compiled from various sources [<xref ref-type="bibr" rid="B25-sustainability-17-04681">25</xref>,<xref ref-type="bibr" rid="B42-sustainability-17-04681">42</xref>,<xref ref-type="bibr" rid="B43-sustainability-17-04681">43</xref>,<xref ref-type="bibr" rid="B45-sustainability-17-04681">45</xref>,<xref ref-type="bibr" rid="B46-sustainability-17-04681">46</xref>,<xref ref-type="bibr" rid="B48-sustainability-17-04681">48</xref>].</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="sustainability-17-04681-t005" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t005_Table 5</object-id>
+        <label>Table 5</label>
+        <caption>
+          <p>Comparison of emission inventory methods.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Output</th>
+              <th align="right" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Government Emissions Inventory</th>
+              <th align="right" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Google EIE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Calculating total emissions</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">Yes</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">Yes</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Calculating emissions by mode of transport</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">Yes</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">Yes</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Calculating the total vehicle mileage</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">No</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">Yes</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Calculating the number of trips</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">No</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">Yes</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Inbound and outbound traffic</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">No</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">Yes</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Reviewed from the Ministry of Environment and Google EIE statements.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="sustainability-17-04681-t006" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t006_Table 6</object-id>
+        <label>Table 6</label>
+        <caption>
+          <p>Comparison of emission inventory results.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">NTB Emission Data (tCO<sub>2</sub>e)</th>
+              <th align="right" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2019</th>
+              <th align="right" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2020</th>
+              <th align="right" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2021</th>
+              <th align="right" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2022</th>
+              <th align="right" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2023</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">BPS (Government)</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">1715</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">4338</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">1327</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">1820</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">1973</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Google EIE</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">2740</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">1330</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">1780</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">2460</td>
+              <td align="right" valign="middle" style="border-bottom:solid thin">2620</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Source: BPS and Google EIE.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="sustainability-17-04681-t007" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t007_Table 7</object-id>
+        <label>Table 7</label>
+        <caption>
+          <p>BAU validation was carried out by comparing the projected electricity production growth trend under the BAU Scenario with the historical growth trends from previous periods.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Year</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2015</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2016</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2017</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2018</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2019</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2020</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2021</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2022</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2023</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">NTB Electricity Production (GWh) *</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2539</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2768</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3040</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3363</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3753</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">4204</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">4686</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">5180</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">5742</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Growth Rate</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">12%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">12%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">
+                <bold>Year</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>2025</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>2026</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>2027</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>2028</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>2029</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>2030</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>2031</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>2032</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>2033</bold>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">BAU Electricity Production Projection</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">6333</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">7000</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">7756</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">8617</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">9604</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10,741</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">12,036</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">13,498</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">15,154</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Growth Rate</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>* Based on PLN statistics 2023 [<xref ref-type="bibr" rid="B11-sustainability-17-04681">11</xref>].</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="sustainability-17-04681-t008" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t008_Table 8</object-id>
+        <label>Table 8</label>
+        <caption>
+          <p>Comparison of parameters of three scenarios.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Scenario</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">BAU</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Moderate<break/>Scenario</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Optimistic Scenario</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">RE Production Growth Rate</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">15&#x2013;20%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">15&#x2013;32%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">30&#x2013;65%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">PLTU Production Growth Rate</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10&#x2013;20%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10&#x2013;40%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">15&#x2013;45%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">EV Growth Rate</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">5&#x2013;75%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">5&#x2013;64%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">5&#x2013;75%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Electricity Consumption Growth Rate</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">6.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">6.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">6.6%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Fuel Efficiency</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Up to 56%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Up to 25%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Up to 56%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="sustainability-17-04681-t009" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t009_Table 9</object-id>
+        <label>Table 9</label>
+        <caption>
+          <p>Scenario-based outlook on EVs, emissions, and electricity supply (2050).</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Scenario</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Number of EVs in 2050 (Units)</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Number of ICEVs in 2050 (Units)</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Fuel <break/>Efficiency</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Emissions in 2050 (tCO<sub>2</sub>e)</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">RE Growth (2025&#x2013;2030)</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Coal Power Growth (2025&#x2013;2030)</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Electricity Supply in 2050 (KWh)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">BAU Scenario</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">31 million</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">26 million</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Up to 56%</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">41 million</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">15&#x2013;20%</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">11%</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">&#x2212;6.3 billion</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Moderate Scenario</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">13 million</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">44 million</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Up to 25%</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">50 million</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">15&#x2013;31%</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">29&#x2013;40%</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">521 million</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Optimistic Scenario</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">31 million</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">26 million</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Up to 56%</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">49 million</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">30&#x2013;65%</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">43&#x2013;45%</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">4.4 billion</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="sustainability-17-04681-t010" position="float">
+        <object-id pub-id-type="pii">sustainability-17-04681-t010_Table 10</object-id>
+        <label>Table 10</label>
+        <caption>
+          <p>Matrix of recommendations and expected impacts for stakeholders.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Stakeholder</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Recommended Action</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Expected Impact</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">National Government</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Develop roadmap and main regulation for EVs, fuel, and energy</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Aligns EV growth with carbon reduction commitments.</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Local Government</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Impose gradual fuel taxes for ICE vehicles; provide EV purchase incentives.</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Encourages behavioral shift and regional EV uptake.</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">State Electricity Company (PLN)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Continue RE roadmap; anticipate electricity surge with flexible generation mix.</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Balances emission reduction with grid reliability.</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Private Sector</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Invest in EV charging infrastructure and battery value chains.</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Supports accessibility and industry development.</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Academic Sector</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Develop spatial and behavioral EV adoption models; assess energy justice impacts.</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Ensures inclusive, data-driven policymaking.</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

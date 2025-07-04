@@ -1,0 +1,1979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1-3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">wevj</journal-id>
+      <journal-title-group>
+        <journal-title>World Electric Vehicle Journal</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">World Electr. Veh. J.</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="pubmed">World Electric Vehicle Journal</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2032-6653</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/wevj16030132</article-id>
+      <article-id pub-id-type="publisher-id">wevj-16-00132</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Motivators and Environmental Awareness for Electric Vehicle Adoption in Thailand</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4293-0989</contrib-id>
+          <name>
+            <surname>Prabpayak</surname>
+            <given-names>Chanwit</given-names>
+          </name>
+          <xref rid="af1-wevj-16-00132" ref-type="aff">1</xref>
+          <xref rid="c1-wevj-16-00132" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Boonchoo</surname>
+            <given-names>Thanaporn</given-names>
+          </name>
+          <xref rid="af1-wevj-16-00132" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jingjit</surname>
+            <given-names>Suttinee</given-names>
+          </name>
+          <xref rid="af2-wevj-16-00132" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Sierpi&#x144;ski</surname>
+            <given-names>Grzegorz</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-wevj-16-00132"><label>1</label>Faculty of Science and Technology, Rajamangala University of Technology Phra Nakhon, 1381 Wongsawang, Bang Sue, Bangkok 10800, Thailand; <email>thanaporn.b@rmutp.ac.th</email></aff>
+      <aff id="af2-wevj-16-00132"><label>2</label>Provincial Office of Natural Resources and Environment Nonthaburi, Ministry of Natural Resources and Environment, Bang Kraso, Muang, Nonthaburi 11000, Thailand; <email>suttinee.j@gmail.com</email></aff>
+      <author-notes>
+        <corresp id="c1-wevj-16-00132"><label>*</label>Correspondence: <email>chanwit.p@rmutp.ac.th</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>02</month>
+        <year>2025</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2025</year>
+      </pub-date>
+      <volume>16</volume>
+      <issue>3</issue>
+      <elocation-id>132</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>06</day>
+          <month>01</month>
+          <year>2025</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>10</day>
+          <month>02</month>
+          <year>2025</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>02</month>
+          <year>2025</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2025 by the authors.</copyright-statement>
+        <copyright-year>2025</copyright-year>
+        <license license-type="open-access">
+          <license-p>Published by MDPI on behalf of the World Electric Vehicle Association. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Global emissions from the transportation sector were nearly 7.7 GtCO<sub>2</sub> in 2021. In Thailand, the transportation sector emitted 69 MtCO<sub>2</sub> and consumed 27,460 ktoe of final energy in the same year. Transitioning from internal combustion engine vehicles (ICEVs) to electric vehicles (EVs) can help reduce greenhouse gas emissions and air pollution, particularly PM2.5, in major metropolitan areas. However, in the early stages, the adoption of EVs may affect consumer considerations. This study aimed to investigate motivators and environmental awareness regarding EV adoption in Thailand. It also analyzed CO<sub>2</sub> emissions from the transportation sector in Thailand, covering the period from 1987 to 2023, to understand long-term trends and recent changes. An online questionnaire was conducted, and a total of 459 respondents participated. The results revealed that the top three motivators for respondents to consider EVs were the potential tax refund for purchasing an EV, lower charging costs compared to fuel costs for ICEVs, and lower operating costs for EVs compared to ICEVs. In terms of environmental awareness, respondents expressed concerns about adapting to global warming, the potential for EVs to reduce air pollution, and the environment in general. Based on the findings, individuals aged between 26 and 35 years old could be the key target group for early EV adoption.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>EV</kwd>
+        <kwd>electric vehicles</kwd>
+        <kwd>motivators</kwd>
+        <kwd>environment adoption</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>Rajamangala University of Technology Phra Nakhon (RMUTP), Thailand</funding-source>
+        </award-group>
+        <award-group>
+          <funding-source>Thailand Science research and Innovation</funding-source>
+          <award-id>FF68/4778200</award-id>
+        </award-group>
+        <funding-statement>This research was funded by Rajamangala University of Technology Phra Nakhon (RMUTP), Thailand, and the Thailand Science research and Innovation (Fundamental Fund) under Grant No. FF68/4778200.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-wevj-16-00132" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>The transport sector contributes roughly 20% of global carbon dioxide (CO<sub>2</sub>) emissions [<xref ref-type="bibr" rid="B1-wevj-16-00132">1</xref>]. According to the IEA report, global emissions from the transport sector increased at an average annual rate of 1.7% between 1990 and 2022, rising faster than any other end-use sector except for industry (which also grew at an average rate of about 1.7%) [<xref ref-type="bibr" rid="B2-wevj-16-00132">2</xref>].</p>
+      <p>In 2023, Thailand&#x2019;s carbon dioxide emissions from energy consumption totaled 243.6 million tons. The power generation sector was the largest contributor, accounting for 37% of total emissions, followed by the transportation sector at 34% (EPPO report).</p>
+      <p><xref ref-type="fig" rid="wevj-16-00132-f001">Figure 1</xref> shows that Thailand has consistently exhibited a high proportion of CO<sub>2</sub> emissions from the transportation sector over the years, primarily due to the increasing use of private vehicles, as illustrated in <xref ref-type="fig" rid="wevj-16-00132-f002">Figure 2</xref>. By the end of 2023, the total number of registered vehicles in Thailand reached 44.3 million, representing a 2.2% increase compared to the previous year (Department of Land Transport). Furthermore, 99% of vehicles in Thailand are fossil-fuel-powered (Department of Land Transport), significantly contributing to the high level of CO<sub>2</sub> emissions, as indicated by the emission factor from the IPCC 2006 report.</p>
+      <p>According to Thailand&#x2019;s Energy Balance Report for 2023, the country recorded a total final energy consumption of 83,152 ktoe, with 66.3% of this figure attributed to fossil fuel usage. Among the sectors utilizing fossil fuels, the transportation sector ranked first, accounting for three-fifths of total consumption. Within this sector, 99% of the energy came from petroleum products and 3% came from natural gas (source: Department of Alternative Energy Development and Efficiency, DEDE).</p>
+      <p>The Thai government announced its support for electric vehicles (EVs) through the National EV Policy Committee in 2019. This initiative aligns with the &#x201C;30@30&#x201D; policy, which aims to ensure that at least 30% of all vehicle production in Thailand by 2030 consists of zero-emission vehicles (ZEVs). This policy is seen as a key mechanism for transitioning Thailand toward a low-carbon society in the future [<xref ref-type="bibr" rid="B3-wevj-16-00132">3</xref>].</p>
+      <p>Statistical data on EVs indicate that Thailand registered 100,219 new battery electric vehicles (BEV) in 2023, representing a 381% increase compared to the previous year. The Energy Regulatory Commission (ERC) analyzed key factors driving the demand for EVs, identifying the following factors: (1) decreasing vehicle prices and a wider variety of options, with Chinese EVs currently dominating the Thai market; (2) the downward trend in battery prices; (3) the growing number of charging stations; and (4) the volatility of energy prices. These factors collectively contribute to the increasing adoption of EVs in Thailand [<xref ref-type="bibr" rid="B4-wevj-16-00132">4</xref>].</p>
+      <p>The research aims to identify factors motivating the adoption of electric vehicles (EVs), emphasizing the importance of economic incentives like tax refunds to address affordability challenges and make EVs competitive with internal combustion engine vehicles (ICEVs). It highlights consumer hesitation toward EVs due to their novelty in Thailand and underscores the potential role of environmental awareness in promoting sustainable transportation.</p>
+    </sec>
+    <sec id="sec2-wevj-16-00132">
+      <title>2. Literature Review</title>
+      <p>Recent studies on EV adoption in Southeast Asia provide valuable insights into the shared challenges and country-specific strategies within the region. For example, both Malaysia and Indonesia prioritize government incentives and charging infrastructure as critical drivers for EV adoption, which aligns closely with Thailand&#x2019;s policy framework [<xref ref-type="bibr" rid="B5-wevj-16-00132">5</xref>]. However, Thailand&#x2019;s approach appears more focused on incentivizing EV manufacturing, whereas Malaysia emphasizes consumer tax exemptions, and Indonesia prioritizes mining and local battery production for long-term sustainability.</p>
+      <p>Additionally, studies from Vietnam reveal unique socio-economic factors, such as high urban population density and varying energy grid readiness, which influence EV adoption differently than in Thailand [<xref ref-type="bibr" rid="B6-wevj-16-00132">6</xref>]. Thailand&#x2019;s relatively advanced energy grid and industrial base provide it with opportunities to lead regional collaboration on charging infrastructure development and technology sharing. These comparisons illustrate both shared priorities, such as infrastructure and incentives, and distinctive challenges, offering opportunities for collaborative policy innovations in the Southeast Asian context.</p>
+      <p>A recent study presents a strategic framework for reducing environmental impacts from transportation emissions through the optimal placement of Traffic Emission Remote Sensing Monitors (TERSM). The research emphasizes using spatial analysis to identify high-emission zones by integrating traffic patterns and road characteristics, thus improving the detection of vehicles that exceed emission standards. By applying heuristic and exact algorithms, the study demonstrates enhanced emission monitoring efficiency, providing valuable insights for urban air quality management and greenhouse gas (GHG) emission reduction. [<xref ref-type="bibr" rid="B7-wevj-16-00132">7</xref>]. In comparison, Thailand&#x2019;s current emission control measures are relatively limited and primarily rely on traditional vehicle inspection methods. These conventional approaches often fail to provide real-time data or adequately cover critical traffic areas, resulting in gaps in emission monitoring and enforcement.</p>
+      <p>Charging infrastructure, battery life, and EV range remain pivotal challenges for the widespread adoption of EVs. The availability and accessibility of charging stations are crucial for alleviating range anxiety and encouraging EV adoption. A well-distributed charging network enhances convenience and reassures potential users about the feasibility of long-distance travel. For instance, the International Energy Agency (IEA) highlights that deploying public charging infrastructure in anticipation of EV sales growth is critical for widespread adoption. In Norway, there were around 1.3 battery electric light-duty vehicles (LDVs) per public charging point in 2011, supporting further adoption. By the end of 2022, with over 17% of LDVs being battery electric vehicles (BEVs), there were 25 BEVs per public charging point in Norway. This trend indicates that as the stock share of battery electric LDVs increases, the charging point per BEV ratio decreases, underscoring the importance of proactive infrastructure development [<xref ref-type="bibr" rid="B8-wevj-16-00132">8</xref>]. Advancements in battery technology directly impact vehicle lifespan, cost efficiency, and range capability, which are critical considerations for consumers evaluating the switch from internal combustion vehicles. Addressing concerns about battery degradation and enhancing range can significantly influence consumer decisions. A study published in Nature Energy suggests that EV batteries, in real-world conditions, may last up to a third longer than previously estimated under laboratory conditions, challenging assumptions about battery longevity and potentially alleviating consumer concerns regarding battery life. In Thailand&#x2019;s context, infrastructure development is still in its early stages, with charging stations concentrated primarily in urban areas. As highlighted by [<xref ref-type="bibr" rid="B9-wevj-16-00132">9</xref>,<xref ref-type="bibr" rid="B10-wevj-16-00132">10</xref>], effective planning of charging station locations can optimize accessibility and reduce operational bottlenecks. Additionally, improving the efficiency and longevity of EV batteries will further strengthen consumer confidence. These factors must be addressed holistically to promote sustained EV adoption and a seamless transition toward sustainable transportation.</p>
+      <p>In our comprehensive literature review, numerous studies have extensively explored the multifaceted advantages of electric vehicles (EVs) in promoting environmentally sustainable transportation solutions. While the existing body of research has primarily focused on various aspects of EV adoption, this study adopts a distinct perspective by emphasizing the analysis of consumer willingness to embrace EVs. Within this rich body of literature, numerous factors influencing consumers&#x2019; motivation to purchase EVs have been carefully examined and documented. This section critically analyzes these influential factors, highlighting their significance in shaping consumer choices. For clarity and accessibility, the information is summarized in <xref ref-type="table" rid="wevj-16-00132-t001">Table 1</xref>.</p>
+      <sec id="sec2dot1-wevj-16-00132">
+        <title>2.1. Motivators Driving EV Purchases</title>
+        <p>Among the motivators driving EV purchases, one significant factor is the tax refund. Research indicates that offering a rebate or tax credit of USD 1000 can stimulate public interest, resulting in a 2.6% increase in the average sales of electric vehicles [<xref ref-type="bibr" rid="B11-wevj-16-00132">11</xref>]. The addition of special EV lanes also increases the interest of EV users because it saves them more time [<xref ref-type="bibr" rid="B12-wevj-16-00132">12</xref>]. Furthermore, from a study conducted in Philadelphia, it was found that people have a willingness to purchase electric vehicles (EVs) due to an exemption from parking fees, which reduces parking costs for individuals in Philadelphia by USD100 per month [<xref ref-type="bibr" rid="B13-wevj-16-00132">13</xref>]. While Norway has achieved a high level of electric vehicle adoption, this is primarily due to government promotion through exemptions on import duties and sales taxes, as well as allowing the use of bus lanes and waiving toll charges [<xref ref-type="bibr" rid="B14-wevj-16-00132">14</xref>]. When considering the maintenance costs of electric vehicles (EVs), it is found that they are approximately 40% lower than those of internal combustion engine (ICE) vehicles [<xref ref-type="bibr" rid="B15-wevj-16-00132">15</xref>]. According to the U.S. Department of Energy, EVs have lower maintenance costs because the battery, motor, and associated electronics require minimal to no regular maintenance. Additionally, there are fewer fluids, such as engine oil, that require regular maintenance. Brake wear is significantly reduced due to regenerative braking, and there are far fewer moving parts compared to a conventional gasoline engine [<xref ref-type="bibr" rid="B15-wevj-16-00132">15</xref>].</p>
+        <p>In the United Kingdom, there has been a reduction in electricity prices for EV users during nighttime hours. The average price per kWh on a standard flat rate tariff is GBP 0.2277 per kWh, while EV users pay a rate of GBP 0.1593 per kWh during nighttime hours [<xref ref-type="bibr" rid="B16-wevj-16-00132">16</xref>]. Similarly, in Thailand, household electricity costs approximately THB 4.5888 per unit, and if you charge an EV after 10 pm, the electricity cost reduces to THB 2.804 per unit. Comparing the energy consumption of electricity by electric vehicles (EVs) to the fossil fuel consumption of internal combustion engines (ICE), charging an EV results in savings of approximately 78%. According to a report by Energysage, it has been demonstrated that, in general, charging an electric vehicle is approximately three times more cost-effective per mile compared to fueling an ICE. However, these cost savings can vary depending on factors such as the type of vehicle and battery size [<xref ref-type="bibr" rid="B17-wevj-16-00132">17</xref>].</p>
+        <p>Furthermore, there is currently a new technology called &#x201C;vehicle-to-grid&#x201D; or V2G, which is a process that extracts electricity from electric vehicle batteries and feeds it back into the main electrical grid. It is a method of managing the power grid, considering electric vehicles as a large-scale energy storage resource that can assist the electrical grid in various ways, such as by serving as a backup power source and providing grid ancillary services. Users of electric vehicles participating in V2G programs receive compensation for supplying electricity from their vehicle batteries to the main electrical grid [<xref ref-type="bibr" rid="B18-wevj-16-00132">18</xref>].</p>
+      </sec>
+      <sec id="sec2dot2-wevj-16-00132">
+        <title>2.2. Environmental Awareness</title>
+        <p>Environmental awareness, driven by the climate change crisis, carries global implications, leading numerous regions to prioritize environmental conservation and the reduction of greenhouse gas emissions. For example, environmental concern regarding climate change is linked to the willingness to embrace electric vehicles (EVs) [<xref ref-type="bibr" rid="B19-wevj-16-00132">19</xref>]. Electric vehicles (EVs) have the capacity to significantly curtail vehicle emissions, which are a major contributor to climate change, without causing a substantial decrease in convenience or mobility [<xref ref-type="bibr" rid="B20-wevj-16-00132">20</xref>]. At the same time, scientists from the Keck School of Medicine at USC conducted a groundbreaking study that provides evidence of electric cars leading to tangible reductions in air pollution and respiratory issues in real-world conditions [<xref ref-type="bibr" rid="B21-wevj-16-00132">21</xref>]. Based on studies conducted in China, it has been discovered that EV adoption can have a substantial impact in reducing PM2.5 pollution. Specifically, for each additional unit of EV sold, there is a reduction of 1.75 &#xD7; 10<sup>&#x2212;5</sup> &#x3BC;g/m<sup>3</sup> in PM2.5 levels [<xref ref-type="bibr" rid="B22-wevj-16-00132">22</xref>]. Additionally, studies in the United States, where there is a plan for all new vehicles to be EVs by 2035, have found that with full electrification of on-road vehicle fleets, the statewide population-weighted annual average PM2.5 concentration is reduced by about 0.5 &#x3BC;g/m<sup>3</sup> [<xref ref-type="bibr" rid="B23-wevj-16-00132">23</xref>].</p>
+        <p>Furthermore, due to their silent operation, it can be asserted that electric vehicles lead to a genuine reduction in traffic noise pollution on the streets [<xref ref-type="bibr" rid="B24-wevj-16-00132">24</xref>]. Furthermore, from the book <italic>Drawdown</italic>, it is evident that transitioning to electric vehicles is one of the seven behaviors with the greatest potential to reduce emissions [<xref ref-type="bibr" rid="B25-wevj-16-00132">25</xref>].</p>
+      </sec>
+      <sec id="sec2dot3-wevj-16-00132">
+        <title>2.3. Willingness to Buy</title>
+        <p>Findings indicate that factors such as environmental knowledge, technology perception, economic benefits, psychological needs, and performance attributes play a significant role in shaping consumers&#x2019; EV acceptance [<xref ref-type="bibr" rid="B26-wevj-16-00132">26</xref>]. Similarly, a survey conducted across China revealed the impact of factors such as age, income, marital status, sustainability, and vehicle comfort on consumers&#x2019; intentions to purchase eco-friendly vehicles. [<xref ref-type="bibr" rid="B27-wevj-16-00132">27</xref>]. Additionally, research from India found that consumers&#x2019; adoption intentions are positively influenced by attitude, perceived behavioral control, subjective norms, environmental concern, and moral norms [<xref ref-type="bibr" rid="B28-wevj-16-00132">28</xref>]. Canadian households displayed a favorable attitude toward EVs [<xref ref-type="bibr" rid="B29-wevj-16-00132">29</xref>]. Furthermore, Spanish drivers&#x2019; willingness to adopt EVs was influenced by factors such as cost, technology information, and beliefs regarding EV autonomy [<xref ref-type="bibr" rid="B30-wevj-16-00132">30</xref>]. In summary, research on consumers&#x2019; willingness to buy EVs encompasses various key areas, including lifestyle choices, cost considerations, charging station accessibility, impediments to acceptance, and the influence of Big Five personality traits, encompassing openness, conscientiousness, extraversion, agreeableness, and neuroticism [<xref ref-type="bibr" rid="B31-wevj-16-00132">31</xref>].</p>
+      </sec>
+    </sec>
+    <sec id="sec3-wevj-16-00132">
+      <title>3. Materials and Methods</title>
+      <sec id="sec3dot1-wevj-16-00132">
+        <title>3.1. Questionnaire and Survey</title>
+        <p>Motivators and environmental awareness were identified through an online questionnaire survey conducted in March 2024 for a duration of 15 days. The questionnaire was divided into three parts. Part 1 focused on the demographic information of the respondents, including gender, age, educational background, household income, occupation, family size, car ownership, and driving experience. Part 2 aimed to assess motivators and environmental awareness using a five-point Likert scale. Eight motivators and seven aspects of environmental awareness were selected for the survey, as shown in <xref ref-type="table" rid="wevj-16-00132-t001">Table 1</xref>. Respondents were asked to rate the importance of these motivators and environmental aspects on a scale as follows: 1(not at all important), 2 (slightly important), 3 (important), 4 (fairly important) and 5 (strongly important). Part 3 consisted of an open-ended question where respondents could provide suggestions and opinions regarding the adoption of electric vehicles (EVs).</p>
+        <p>The collected questionnaires underwent data cleaning, which involved removing invalid responses based on the criteria of repeated or identical scores within the Likert scale variables. Out of the initial 485 questionnaires, only 459 (94.64% of total responses) passed this cleaning process.</p>
+        <p>The sampling methodology followed the Yamane formula to calculate an adequate sample size, ensuring statistical validity. While efforts were made to reach a broad demographic, the sample reflects an urban and educated population, aligning with the higher likelihood of EV adoption among these groups in Thailand.</p>
+        <p><xref ref-type="table" rid="wevj-16-00132-t002">Table 2</xref> presents the characteristics of the respondents. The majority of respondents were male (60.3%), and 39.7% of respondents were female. In terms of age, the largest groups were those between 26 and 35 years (53.4%) and 36 and 45 years old (23.5%). Most respondents held a bachelor&#x2019;s degree (88.7%), which enabled them to evaluate the technological features, financial implications, and environmental benefits of EVs and internal combustion engine vehicles (ICEVs). Regarding occupation, 61.9% were company employees/employees, self-employed, or merchants, while government officials and state enterprise employees accounted for 26.6%. A significant proportion of respondents (88.4%) already owned a private car, and 90.2% held driver&#x2019;s licenses, with 73.6% having more than three years of driving experience. In terms of monthly income, 26.4% of respondents reported an income of THB 15,000&#x2013;25,000, while 24.4% had a monthly income exceeding THB 50,001.</p>
+      </sec>
+      <sec id="sec3dot2-wevj-16-00132">
+        <title>3.2. Chi-Squared Test</title>
+        <p>A statistical tool called the chi-squared test is used to determine statistical relationships between variables by assuming that there is no correlation between a set of groups and response outcomes. The significance level is set at 0.05; if the p-value is less than 0.05, the null hypothesis is rejected. The equation for the chi-squared test is as follows:<disp-formula id="FD1-wevj-16-00132"><label>(1)</label><mml:math id="mm1" display="block"><mml:semantics><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="sans-serif">&#x3C7;</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:mrow><mml:munderover><mml:mo stretchy="false">&#x2211;</mml:mo><mml:mrow><mml:mi mathvariant="italic">i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mi mathvariant="italic">c</mml:mi></mml:mrow></mml:munderover><mml:mrow><mml:mrow><mml:munderover><mml:mo stretchy="false">&#x2211;</mml:mo><mml:mrow><mml:mi mathvariant="italic">j</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mi mathvariant="italic">r</mml:mi></mml:mrow></mml:munderover><mml:mrow><mml:mstyle scriptlevel="0" displaystyle="true"><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="italic">O</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">i</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="italic">j</mml:mi></mml:mrow></mml:msub><mml:mo>&#x2212;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="italic">E</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">i</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="italic">j</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="italic">E</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">i</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="italic">j</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mstyle></mml:mrow></mml:mrow></mml:mrow></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:semantics></mml:math></disp-formula><disp-formula id="FD2-wevj-16-00132"><label>(2)</label><mml:math id="mm2" display="block"><mml:semantics><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="italic">E</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">i</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="italic">j</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mstyle scriptlevel="0" displaystyle="true"><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="italic">n</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">i</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="italic">n</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">j</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi mathvariant="italic">N</mml:mi></mml:mrow></mml:mfrac></mml:mstyle></mml:mrow></mml:semantics></mml:math></disp-formula><inline-formula><mml:math id="mm3"><mml:semantics><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="sans-serif">&#x3C7;</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mi mathvariant="italic">&#x2008;</mml:mi></mml:mrow></mml:semantics></mml:math></inline-formula> is Pearson&#x2019;s cumulative test statistic, which follows a nonparametric distribution with (<italic>r</italic> &#x2212; 1) (<italic>c</italic> &#x2212; 1). The rows represent the degrees of freedom, while the column variables are considered independent. <inline-formula><mml:math id="mm4"><mml:semantics><mml:mrow><mml:msub><mml:mrow><mml:mi>O</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:semantics></mml:math></inline-formula> represents the number of observations in row <italic>i</italic> and column <italic>j</italic>. The expected frequency value in row <italic>i</italic> and column <italic>j</italic> is denoted as <inline-formula><mml:math id="mm5"><mml:semantics><mml:mrow><mml:msub><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:semantics></mml:math></inline-formula>. <inline-formula><mml:math id="mm6"><mml:semantics><mml:mrow><mml:mi>N</mml:mi></mml:mrow></mml:semantics></mml:math></inline-formula> defines the total number of observations, and <italic>n</italic> is the number of cells in the table. In this study, the chi-squared test was used to examine the correlation between motivators, environmental awareness, personal characteristics, and EV adoption.</p>
+      </sec>
+      <sec id="sec3dot3-wevj-16-00132">
+        <title>3.3. Reliability of Questionnaire</title>
+        <p>The reliability of the motivators and environmental awareness scales was evaluated using Cronbach&#x2019;s alpha, as shown in <xref ref-type="table" rid="wevj-16-00132-t003">Table 3</xref>. A good reliability for Cronbach&#x2019;s alpha is generally considered to be above 0.70 [<xref ref-type="bibr" rid="B32-wevj-16-00132">32</xref>]. The equation for Cronbach&#x2019;s alpha is as follows:<disp-formula id="FD3-wevj-16-00132"><label>(3)</label><mml:math id="mm7" display="block"><mml:semantics><mml:mrow><mml:mi mathvariant="sans-serif">&#x3B1;</mml:mi><mml:mo>=</mml:mo><mml:mstyle scriptlevel="0" displaystyle="true"><mml:mfrac><mml:mrow><mml:mi mathvariant="italic">k</mml:mi><mml:mo>&#xD7;</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi mathvariant="italic">c</mml:mi></mml:mrow><mml:mo>&#xAF;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi mathvariant="italic">v</mml:mi></mml:mrow><mml:mo>&#xAF;</mml:mo></mml:mover><mml:mo>+</mml:mo><mml:mo>(</mml:mo><mml:mi mathvariant="italic">k</mml:mi><mml:mo>&#x2212;</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi mathvariant="italic">c</mml:mi></mml:mrow><mml:mo>&#xAF;</mml:mo></mml:mover></mml:mrow></mml:mfrac></mml:mstyle></mml:mrow></mml:semantics></mml:math></disp-formula>
+        where &#x3B1; denotes Cronbach&#x2019;s alpha, <italic>k</italic> represents the number of items, <inline-formula><mml:math id="mm8"><mml:semantics><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mo>&#xAF;</mml:mo></mml:mover></mml:mrow></mml:semantics></mml:math></inline-formula> represents the average covariance between items, and <inline-formula><mml:math id="mm9"><mml:semantics><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mo>&#xAF;</mml:mo></mml:mover></mml:mrow></mml:semantics></mml:math></inline-formula> represents the average variance of each item.</p>
+      </sec>
+    </sec>
+    <sec id="sec4-wevj-16-00132">
+      <title>4. Result and Discussion</title>
+      <p>The questionnaires were processed and analyzed using descriptive statistics to investigate the perspectives of 459 respondents on EV motivators and environmental factors.</p>
+      <sec id="sec4dot1-wevj-16-00132">
+        <title>4.1. Descriptive Analysis</title>
+        <p><xref ref-type="table" rid="wevj-16-00132-t004">Table 4</xref> summarizes the results of the descriptive analysis. The highest average score among motivators was for &#x201C;EVs gets tax refund&#x201D; (ME1), followed by &#x201C;EVs charging cost is cheaper than ICEVs fuel cost&#x201D; (ME7) and &#x201C;EVs have operating cost less than ICEVs&#x201D; (ME5) in second and third place, respectively. This suggests that most respondents are primarily concerned with the financial benefits and cost savings associated with EVs. While the battery charging bill contributes to the total operating cost of an EV, the long-term savings potential appears to be the most significant driver for consumer adoption. Conversely, concerns regarding EV performance, particularly range per charge, battery life, and safety, were identified as barriers to widespread adoption [<xref ref-type="bibr" rid="B33-wevj-16-00132">33</xref>]. A tax refund could help reduce the purchase price of EVs, making them more competitive with ICEVs from a cost perspective.</p>
+        <p>Adaptation for global warming and environmental concerns (EA4) had the highest average score, followed by EVs reducing air pollution (EA7) and environmental concern (EA3). This indicates that most respondents are concerned about global warming and climate change issues and are keen to protect the environment.</p>
+        <p>The least important to respondents among motivators was a special lane for EVs. The reason may be traffic conditions in major cities and the limitations of road expansion and high land prices in metropolitan areas. Next, EVs&#x2019; exemption from parking fees was ranked higher than EVs&#x2019; special lanes, which could imply that respondents did not care for this benefit. This may be because EVs can charge at charging stations, which already have parking lots in malls, superstores, and gas stations. EVs getting toll-free access cannot motivate respondents to purchase EVs. This may be because some respondents do not drive on tollways, and these are located only in Bangkok and perimeter provinces.</p>
+        <p>&#x201C;Climate change harming yourself and your family&#x201D; (EA1) was the least important to respondents among environmental awareness factors. This could imply that respondents do not have a clear understanding of how climate change affects everyone as a connected Earth system. Another reason may be that respondents have not faced events related to climate change in their daily lives. The role of EVs in helping to reduce greenhouse gas (GHG) emissions (EA5) was ranked second from last, which could imply that respondents think EVs cannot help reducing GHG emissions if their electricity does not come entirely from renewable energy. Small-scale adoption of EVs may not be enough to significantly reduce GHG emissions; transforming almost all ICEVs to EVs in the transport sector may be a solution.</p>
+        <p>The discrepancy in scores between EA4 and EA1 may reflect differences in how respondents perceive environmental issues on a broader societal scale versus on a personal or familial level. The high score for EA4, which concerns the importance of adopting sustainable practices, suggests strong societal awareness and collective responsibility toward environmental sustainability. Conversely, the lower score for EA1, focusing on the perceived dangers of climate change to oneself and family, could indicate a disconnect between global environmental concerns and perceived direct impacts on personal life. This pattern aligns with previous studies that found individuals often view climate change as a distant issue rather than an immediate threat to their personal well-being or family. Cultural factors and the availability of localized climate impact information may also contribute to these perceptions.</p>
+      </sec>
+      <sec id="sec4dot2-wevj-16-00132">
+        <title>4.2. Respondent Characteristics</title>
+        <p>Gender, age, occupation, educational background, family size, driving experience, monthly income, and vehicle ownership were used to categorize respondents and identify the individual characteristics that significantly impact EV adoption.</p>
+        <sec id="sec4dot2dot1-wevj-16-00132">
+          <title>4.2.1. Gender, Age, and Educational Background</title>
+          <p>Various groups of motivators and environmental awareness are compared and shown in <xref ref-type="table" rid="wevj-16-00132-t0A1">Table A1</xref>. Males and females held different views on both motivators and environmental awareness. Statistically significant differences were found in views on ME8 (EVs can do vehicle-to-grid), ME2 (EVs have a special lane), and ME1 (EVs get a tax refund). EA4 (adapt behavior for global warming and the environment), EA5 (EVs reduce GHG emissions), EA6 (EVs reduce noise pollution), and EA7 (EVs charging cost is cheaper than ICEVs fuel cost) were also statistically significant.</p>
+          <p>Regarding age, a statistically significant difference was found between groups ME6 (EVs get charging prices cheaper than household electricity) and ME7 (EVs charging cost is cheaper than ICEVs fuel cost). EA5 (EVs reduce GHG emissions) and EA6 (EVs reduce noise pollution) also showed statistically significant differences. Respondents aged between 26 and 35 were found to be motivated to adopt EVs. These respondents are concerned about environmental and climate change.</p>
+          <p>In terms of educational background, two environmental awareness factors showed statistically significant results: EA2 (air pollution affects) and EA3 (more environmental concern). Respondents with a higher educational background believed that these environmental awareness factors were drivers for EV adoption.</p>
+        </sec>
+        <sec id="sec4dot2dot2-wevj-16-00132">
+          <title>4.2.2. Occupation, Family Size, Vehicle Ownership</title>
+          <p>As for occupation, three motivators were statistically significant: ME1 (EVs obtain a tax refund), ME2 (EVs have a special lane), and ME7 (EVs charging cost is less than ICEVs fuel cost). ME1, ME2, and ME7 were identified as motivators for EV adoption by respondents with a secure profession. EA6 (EVs reduce noise pollution) was also statistically significant.</p>
+          <p>Regarding family size, no motivators or environmental awareness factors were statistically significant. Regarding vehicle ownership, EA6 (EVs reduce noise pollution) was statistically significant.</p>
+        </sec>
+        <sec id="sec4dot2dot3-wevj-16-00132">
+          <title>4.2.3. Driving Experience and Monthly Income</title>
+          <p>Respondents were categorized into four groups: no driving experience, new drivers with fewer than three years of experience, intermediate drivers with three to five years of experience, and experienced drivers with more than five years of experience. ME5 (EV has operating costs less than ICEV) and ME7 (EV charging cost is cheaper than ICEV fuel cost) were statistically significant. Experienced drivers believed that EV operating costs were a motivator for EV adoption. This implied that experienced drivers focused on maintenance costs and fuel costs.</p>
+          <p>Regarding monthly income, ME1 (EV gets a tax refund), ME3 (EV is exempt from parking fees), and ME7 (EV charging cost is cheaper than ICEV fuel cost) were statistically significant. Only EA3 (more environmental concern) was statistically significant.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec5-wevj-16-00132" sec-type="conclusions">
+      <title>5. Conclusions</title>
+      <p>The investigation of motivators and environmental awareness involved collecting data from 459 respondents in Thailand. While EVs are considered a sustainable transportation choice despite being new technology, respondents are hesitant to adopt them. To encourage widespread EV adoption, tax refunds appear to be the strongest motivator. This suggests that current EV prices might be unaffordable. Monetary incentives, such as tax breaks or refunds, should be offered in the early stages of adoption to make EVs economically competitive with internal combustion engine vehicles (ICEVs). Raising environmental awareness and promoting sustainable transportation could also accelerate consumer adoption of EVs.</p>
+      <p>One limitation of this study is that some respondents lacked real-world experience driving EVs due to their newness in Thailand. Respondents&#x2019; perceptions may change after taking a test drive or gaining experience with EVs [<xref ref-type="bibr" rid="B34-wevj-16-00132">34</xref>]. Furthermore, the 26&#x2013;35 age group was targeted in this study as they represent a significant portion of potential EV adopters in Thailand. This focus aligns with prior research identifying younger, urban demographics as early adopters of innovative technologies. In addition to tax incentives, which emerged as a primary factor for encouraging EV adoption, other motivational elements play significant roles. Charging costs and the availability of charging infrastructure were found to impact consumers&#x2019; decisions, particularly regarding the perceived convenience and long-term savings associated with EVs. Environmental awareness, though not always a deciding factor, contributes to shifting perceptions about sustainable transportation options, especially among environmentally conscious demographics. A holistic approach that combines financial incentives, technological advancements in charging infrastructure, and awareness campaigns can better accelerate EV adoption in Thailand.</p>
+      <p>Several key barriers influence the adoption of EVs in Thailand. Charging infrastructure remains a significant obstacle, as the availability and accessibility of charging stations directly affect consumer confidence in using EVs for long-distance travel. Additionally, battery life and concerns about degradation over time create uncertainty for potential buyers, impacting the perceived long-term value of EVs. EV range, or the distance a vehicle can travel on a single charge, is another critical factor that contributes to range anxiety among consumers. Addressing these barriers requires coordinated efforts in infrastructure development, technological advancements, and public policy support.</p>
+      <p>To enhance EV adoption in Thailand, a structured approach focusing on financial incentives and public awareness campaigns is essential. Monetary measures such as tax rebates, registration fee reductions, and subsidies for EV manufacturers should be synchronized with Thailand&#x2019;s National EV Policy Committee objectives and the National EV Promotion Plan. Additionally, installation incentives for charging stations can support infrastructure development. Awareness campaigns tailored to urban and rural populations, in partnership with educational institutions, media channels, and local governments, can effectively educate consumers on the environmental and economic benefits of EVs. For feasible implementation, these strategies should align with infrastructure development plans, such as the EV Charging Infrastructure Expansion Plan led by the Energy Policy and Planning Office (EPPO), ensuring convenience and accessibility for EV users while leveraging cross-sector collaboration.</p>
+      <p>However, we acknowledge that analyzing additional variables, such as income level, household size, or occupation, in combination with age, could provide deeper insights. It is important to consider upstream emissions, such as those from electricity generation and battery production, as they contribute significantly to the overall environmental impact of EVs. The exclusion of upstream emissions represents a limitation of this study. Future studies should incorporate these factors to develop more comprehensive strategies for promoting EV adoption. Furthermore, they should incorporate a life-cycle assessment to evaluate both direct and upstream emissions for a holistic understanding of the environmental consequences of EV adoption.</p>
+      <p>This study used a Likert scale to measure participants&#x2019; perceptions of motivators and environmental awareness factors influencing EV adoption. While this approach provides valuable insights into individual attitudes, it does not capture the relative importance of each factor in practical decision-making. For instance, participants might perceive all factors as important but weigh certain factors such as financial incentives more heavily when making actual decisions. Future research should consider employing methods such as conjoint analysis, multi-criteria decision analysis (MCDA), or pairwise comparisons to evaluate the relative importance of these factors, allowing for a more comprehensive understanding of decision-making processes.</p>
+    </sec>
+  </body>
+  <back>
+    <notes>
+      <title>Author Contributions</title>
+      <p>C.P., Conceptualization and methodology, C.P. and S.J., software, C.P. and T.B., validation, C.P. and S.J., formal analysis, C.P. and T.B., investigation, S.J., resources, C.P., data curation, C.P. and S.J., writing&#x2014;original draft preparation, C.P., writing&#x2014;review, editing visualization and supervision, S.J., project administration, C.P., funding acquisition. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>Ethical review and approval for this study were waived as it forms part of the research project titled 'Forecasting of Electricity Demand in the Land Transport Sector According to the Electric Vehicle Policy in Thailand', which has been formally approved and funded by the Thailand Science Research and Innovation (TSRI). Based on the project&#x2019;s classification under Research Standards, this study does not involve human research ethics, biosafety protocols, the use of animals for scientific purposes, or laboratory chemical safety considerations. Therefore, IRB approval was not required.</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Informed consent was obtained from all subjects involved in the study.</p>
+    </notes>
+    <notes>
+      <title>Data Availability Statement</title>
+      <p>The original contributions presented in this study are included in the article. Further inquiries can be directed to the corresponding author.</p>
+    </notes>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors sincerely thank the reviewers for their valuable feedback and constructive suggestions, which have significantly enhanced the clarity and rigor of this research. Their insightful comments on methodology, data presentation, and sample limitations have been instrumental in improving the overall quality of the study. We also extend our gratitude to Rajamangala University of Technology Phra Nakhon (RMUTP), Thailand, for their funding and institutional support, which have played a crucial role in the successful completion of this research.</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflicts of interest.</p>
+    </notes>
+    <app-group>
+      <app id="app1-wevj-16-00132">
+        <title>Appendix A</title>
+        <table-wrap id="wevj-16-00132-t0A1" position="anchor">
+          <object-id pub-id-type="pii">wevj-16-00132-t0A1_Table A1</object-id>
+          <label>Table A1</label>
+          <caption>
+            <p>Pearson chi-squared (<inline-formula><mml:math id="mm10"><mml:semantics><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="sans-serif">&#x3C7;</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula>) test of respondents&#x2019; characteristics.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Motivator</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Gender<break/>(df = 4)</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Age<break/>(df = 20)</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Education Background (df = 12)</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Monthly <break/>Income<break/>(df = 32)</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Occupation<break/>(df = 20)</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Family Size<break/>(df = 16)</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Living Region<break/>(df = 24)</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Driving <break/>Experience <break/>(df = 20)</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Car Owner<break/>(df = 8)</th>
+              </tr>
+              <tr>
+                <th align="center" valign="middle" style="border-bottom:solid thin">
+                  <inline-formula>
+                    <mml:math id="mm11">
+                      <mml:semantics>
+                        <mml:mstyle mathvariant="bold">
+                          <mml:mrow>
+                            <mml:msup>
+                              <mml:mrow>
+                                <mml:mi mathvariant="bold-sans-serif">&#x3C7;</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                            </mml:msup>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:semantics>
+                    </mml:math>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" style="border-bottom:solid thin"><italic>p</italic>-Value</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">
+                  <inline-formula>
+                    <mml:math id="mm12">
+                      <mml:semantics>
+                        <mml:mstyle mathvariant="bold">
+                          <mml:mrow>
+                            <mml:msup>
+                              <mml:mrow>
+                                <mml:mi mathvariant="bold-sans-serif">&#x3C7;</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                            </mml:msup>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:semantics>
+                    </mml:math>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" style="border-bottom:solid thin"><italic>p</italic>-Value</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">
+                  <inline-formula>
+                    <mml:math id="mm13">
+                      <mml:semantics>
+                        <mml:mstyle mathvariant="bold">
+                          <mml:mrow>
+                            <mml:msup>
+                              <mml:mrow>
+                                <mml:mi mathvariant="bold-sans-serif">&#x3C7;</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                            </mml:msup>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:semantics>
+                    </mml:math>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" style="border-bottom:solid thin"><italic>p</italic>-Value</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">
+                  <inline-formula>
+                    <mml:math id="mm14">
+                      <mml:semantics>
+                        <mml:mstyle mathvariant="bold">
+                          <mml:mrow>
+                            <mml:msup>
+                              <mml:mrow>
+                                <mml:mi mathvariant="bold-sans-serif">&#x3C7;</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                            </mml:msup>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:semantics>
+                    </mml:math>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" style="border-bottom:solid thin"><italic>p</italic>-Value</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">
+                  <inline-formula>
+                    <mml:math id="mm15">
+                      <mml:semantics>
+                        <mml:mstyle mathvariant="bold">
+                          <mml:mrow>
+                            <mml:msup>
+                              <mml:mrow>
+                                <mml:mi mathvariant="bold-sans-serif">&#x3C7;</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                            </mml:msup>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:semantics>
+                    </mml:math>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" style="border-bottom:solid thin"><italic>p</italic>-Value</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">
+                  <inline-formula>
+                    <mml:math id="mm16">
+                      <mml:semantics>
+                        <mml:mstyle mathvariant="bold">
+                          <mml:mrow>
+                            <mml:msup>
+                              <mml:mrow>
+                                <mml:mi mathvariant="bold-sans-serif">&#x3C7;</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                            </mml:msup>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:semantics>
+                    </mml:math>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" style="border-bottom:solid thin"><italic>p</italic>-Value</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">
+                  <inline-formula>
+                    <mml:math id="mm17">
+                      <mml:semantics>
+                        <mml:mstyle mathvariant="bold">
+                          <mml:mrow>
+                            <mml:msup>
+                              <mml:mrow>
+                                <mml:mi mathvariant="bold-sans-serif">&#x3C7;</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                            </mml:msup>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:semantics>
+                    </mml:math>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" style="border-bottom:solid thin"><italic>p</italic>-Value</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">
+                  <inline-formula>
+                    <mml:math id="mm18">
+                      <mml:semantics>
+                        <mml:mstyle mathvariant="bold">
+                          <mml:mrow>
+                            <mml:msup>
+                              <mml:mrow>
+                                <mml:mi mathvariant="bold-sans-serif">&#x3C7;</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                            </mml:msup>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:semantics>
+                    </mml:math>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" style="border-bottom:solid thin"><italic>p</italic>-Value</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">
+                  <inline-formula>
+                    <mml:math id="mm19">
+                      <mml:semantics>
+                        <mml:mstyle mathvariant="bold">
+                          <mml:mrow>
+                            <mml:msup>
+                              <mml:mrow>
+                                <mml:mi mathvariant="bold-sans-serif">&#x3C7;</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                            </mml:msup>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:semantics>
+                    </mml:math>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" style="border-bottom:solid thin"><italic>p</italic>-Value</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">ME1</td>
+                <td align="center" valign="middle">9.843</td>
+                <td align="center" valign="middle">0.043</td>
+                <td align="center" valign="middle">20.718</td>
+                <td align="center" valign="middle">0.414</td>
+                <td align="center" valign="middle">21.79</td>
+                <td align="center" valign="middle">0.04</td>
+                <td align="center" valign="middle">41.056</td>
+                <td align="center" valign="middle">0.131</td>
+                <td align="center" valign="middle">38.19</td>
+                <td align="center" valign="middle">0.008</td>
+                <td align="center" valign="middle">12.077</td>
+                <td align="center" valign="middle">0.739</td>
+                <td align="center" valign="middle">33.62</td>
+                <td align="center" valign="middle">0.092</td>
+                <td align="center" valign="middle">21.652</td>
+                <td align="center" valign="middle">0.36</td>
+                <td align="center" valign="middle">6.148</td>
+                <td align="center" valign="middle">0.631</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">ME2</td>
+                <td align="center" valign="middle">13.168</td>
+                <td align="center" valign="middle">0.01</td>
+                <td align="center" valign="middle">27.551</td>
+                <td align="center" valign="middle">0.12</td>
+                <td align="center" valign="middle">6.6</td>
+                <td align="center" valign="middle">0.883</td>
+                <td align="center" valign="middle">36.536</td>
+                <td align="center" valign="middle">0.266</td>
+                <td align="center" valign="middle">30.541</td>
+                <td align="center" valign="middle">0.062</td>
+                <td align="center" valign="middle">15.854</td>
+                <td align="center" valign="middle">0.463</td>
+                <td align="center" valign="middle">33.26</td>
+                <td align="center" valign="middle">0.099</td>
+                <td align="center" valign="middle">22.482</td>
+                <td align="center" valign="middle">0.315</td>
+                <td align="center" valign="middle">5.178</td>
+                <td align="center" valign="middle">0.738</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">ME3</td>
+                <td align="center" valign="middle">4.522</td>
+                <td align="center" valign="middle">0.34</td>
+                <td align="center" valign="middle">11.781</td>
+                <td align="center" valign="middle">0.923</td>
+                <td align="center" valign="middle">15.454</td>
+                <td align="center" valign="middle">0.218</td>
+                <td align="center" valign="middle">51.391</td>
+                <td align="center" valign="middle">0.016</td>
+                <td align="center" valign="middle">17.871</td>
+                <td align="center" valign="middle">0.596</td>
+                <td align="center" valign="middle">11.215</td>
+                <td align="center" valign="middle">0.796</td>
+                <td align="center" valign="middle">27.44</td>
+                <td align="center" valign="middle">0.284</td>
+                <td align="center" valign="middle">8.03</td>
+                <td align="center" valign="middle">0.992</td>
+                <td align="center" valign="middle">12.141</td>
+                <td align="center" valign="middle">0.145</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">ME4</td>
+                <td align="center" valign="middle">6.099</td>
+                <td align="center" valign="middle">0.192</td>
+                <td align="center" valign="middle">16.882</td>
+                <td align="center" valign="middle">0.661</td>
+                <td align="center" valign="middle">6.912</td>
+                <td align="center" valign="middle">0.863</td>
+                <td align="center" valign="middle">35.315</td>
+                <td align="center" valign="middle">0.314</td>
+                <td align="center" valign="middle">20.606</td>
+                <td align="center" valign="middle">0.421</td>
+                <td align="center" valign="middle">18.378</td>
+                <td align="center" valign="middle">0.302</td>
+                <td align="center" valign="middle">27.73</td>
+                <td align="center" valign="middle">0.271</td>
+                <td align="center" valign="middle">16.383</td>
+                <td align="center" valign="middle">0.693</td>
+                <td align="center" valign="middle">7.824</td>
+                <td align="center" valign="middle">0.451</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">ME5</td>
+                <td align="center" valign="middle">6.606</td>
+                <td align="center" valign="middle">0.158</td>
+                <td align="center" valign="middle">26.882</td>
+                <td align="center" valign="middle">0.139</td>
+                <td align="center" valign="middle">6.96</td>
+                <td align="center" valign="middle">0.86</td>
+                <td align="center" valign="middle">41.244</td>
+                <td align="center" valign="middle">0.127</td>
+                <td align="center" valign="middle">19.647</td>
+                <td align="center" valign="middle">0.48</td>
+                <td align="center" valign="middle">14.461</td>
+                <td align="center" valign="middle">0.564</td>
+                <td align="center" valign="middle">19.65</td>
+                <td align="center" valign="middle">0.717</td>
+                <td align="center" valign="middle">29.207</td>
+                <td align="center" valign="middle">0.084</td>
+                <td align="center" valign="middle">10.499</td>
+                <td align="center" valign="middle">0.232</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">ME6</td>
+                <td align="center" valign="middle">6.575</td>
+                <td align="center" valign="middle">0.16</td>
+                <td align="center" valign="middle">42.751</td>
+                <td align="center" valign="middle">0.002</td>
+                <td align="center" valign="middle">4.956</td>
+                <td align="center" valign="middle">0.959</td>
+                <td align="center" valign="middle">48.477</td>
+                <td align="center" valign="middle">0.031</td>
+                <td align="center" valign="middle">27.352</td>
+                <td align="center" valign="middle">0.126</td>
+                <td align="center" valign="middle">20.396</td>
+                <td align="center" valign="middle">0.203</td>
+                <td align="center" valign="middle">45.39</td>
+                <td align="center" valign="middle">0.005</td>
+                <td align="center" valign="middle">12.921</td>
+                <td align="center" valign="middle">0.881</td>
+                <td align="center" valign="middle">9.668</td>
+                <td align="center" valign="middle">0.289</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">ME7</td>
+                <td align="center" valign="middle">8.373</td>
+                <td align="center" valign="middle">0.079</td>
+                <td align="center" valign="middle">66.576</td>
+                <td align="center" valign="middle">0</td>
+                <td align="center" valign="middle">24.089</td>
+                <td align="center" valign="middle">0.02</td>
+                <td align="center" valign="middle">52.426</td>
+                <td align="center" valign="middle">0.013</td>
+                <td align="center" valign="middle">39.333</td>
+                <td align="center" valign="middle">0.006</td>
+                <td align="center" valign="middle">12.551</td>
+                <td align="center" valign="middle">0.705</td>
+                <td align="center" valign="middle">23.28</td>
+                <td align="center" valign="middle">0.503</td>
+                <td align="center" valign="middle">28.909</td>
+                <td align="center" valign="middle">0.09</td>
+                <td align="center" valign="middle">4.339</td>
+                <td align="center" valign="middle">0.825</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-bottom:solid thin">ME8</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">19.649</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.001</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">38.749</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.007</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">11.297</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.504</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">52.72</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.012</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">36.634</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.013</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">20.087</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.216</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">28.42</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.243</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">15.466</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.749</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">12.904</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.115</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">EA1</td>
+                <td align="center" valign="middle">3.322</td>
+                <td align="center" valign="middle">0.505</td>
+                <td align="center" valign="middle">18.59</td>
+                <td align="center" valign="middle">0.549</td>
+                <td align="center" valign="middle">20.86</td>
+                <td align="center" valign="middle">0.052</td>
+                <td align="center" valign="middle">19.7</td>
+                <td align="center" valign="middle">0.956</td>
+                <td align="center" valign="middle">25.166</td>
+                <td align="center" valign="middle">0.195</td>
+                <td align="center" valign="middle">22.681</td>
+                <td align="center" valign="middle">0.123</td>
+                <td align="center" valign="middle">28.67</td>
+                <td align="center" valign="middle">0.233</td>
+                <td align="center" valign="middle">20.951</td>
+                <td align="center" valign="middle">0.4</td>
+                <td align="center" valign="middle">8.076</td>
+                <td align="center" valign="middle">0.426</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">EA2</td>
+                <td align="center" valign="middle">5.615</td>
+                <td align="center" valign="middle">0.23</td>
+                <td align="center" valign="middle">25.145</td>
+                <td align="center" valign="middle">0.196</td>
+                <td align="center" valign="middle">21.476</td>
+                <td align="center" valign="middle">0.044</td>
+                <td align="center" valign="middle">41.367</td>
+                <td align="center" valign="middle">0.124</td>
+                <td align="center" valign="middle">21.147</td>
+                <td align="center" valign="middle">0.389</td>
+                <td align="center" valign="middle">21.858</td>
+                <td align="center" valign="middle">0.148</td>
+                <td align="center" valign="middle">35.25</td>
+                <td align="center" valign="middle">0.065</td>
+                <td align="center" valign="middle">21.385</td>
+                <td align="center" valign="middle">0.375</td>
+                <td align="center" valign="middle">6.691</td>
+                <td align="center" valign="middle">0.57</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">EA3</td>
+                <td align="center" valign="middle">6.431</td>
+                <td align="center" valign="middle">0.169</td>
+                <td align="center" valign="middle">20.605</td>
+                <td align="center" valign="middle">0.421</td>
+                <td align="center" valign="middle">25.445</td>
+                <td align="center" valign="middle">0.013</td>
+                <td align="center" valign="middle">37.32</td>
+                <td align="center" valign="middle">0.238</td>
+                <td align="center" valign="middle">16.238</td>
+                <td align="center" valign="middle">0.702</td>
+                <td align="center" valign="middle">12.879</td>
+                <td align="center" valign="middle">0.682</td>
+                <td align="center" valign="middle">35.63</td>
+                <td align="center" valign="middle">0.06</td>
+                <td align="center" valign="middle">20.972</td>
+                <td align="center" valign="middle">0.399</td>
+                <td align="center" valign="middle">12.867</td>
+                <td align="center" valign="middle">0.116</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">EA4</td>
+                <td align="center" valign="middle">12.983</td>
+                <td align="center" valign="middle">0.011</td>
+                <td align="center" valign="middle">31.313</td>
+                <td align="center" valign="middle">0.051</td>
+                <td align="center" valign="middle">25.473</td>
+                <td align="center" valign="middle">0.013</td>
+                <td align="center" valign="middle">33.927</td>
+                <td align="center" valign="middle">0.375</td>
+                <td align="center" valign="middle">17.95</td>
+                <td align="center" valign="middle">0.591</td>
+                <td align="center" valign="middle">12.904</td>
+                <td align="center" valign="middle">0.68</td>
+                <td align="center" valign="middle">36.18</td>
+                <td align="center" valign="middle">0.053</td>
+                <td align="center" valign="middle">19.838</td>
+                <td align="center" valign="middle">0.468</td>
+                <td align="center" valign="middle">11.344</td>
+                <td align="center" valign="middle">0.183</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">EA5</td>
+                <td align="center" valign="middle">11.281</td>
+                <td align="center" valign="middle">0.024</td>
+                <td align="center" valign="middle">39.971</td>
+                <td align="center" valign="middle">0.005</td>
+                <td align="center" valign="middle">21.715</td>
+                <td align="center" valign="middle">0.041</td>
+                <td align="center" valign="middle">28.869</td>
+                <td align="center" valign="middle">0.626</td>
+                <td align="center" valign="middle">25.322</td>
+                <td align="center" valign="middle">0.189</td>
+                <td align="center" valign="middle">18.683</td>
+                <td align="center" valign="middle">0.285</td>
+                <td align="center" valign="middle">37.99</td>
+                <td align="center" valign="middle">0.035</td>
+                <td align="center" valign="middle">22.862</td>
+                <td align="center" valign="middle">0.296</td>
+                <td align="center" valign="middle">10.232</td>
+                <td align="center" valign="middle">0.249</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">EA6</td>
+                <td align="center" valign="middle">17.909</td>
+                <td align="center" valign="middle">0.001</td>
+                <td align="center" valign="middle">53.308</td>
+                <td align="center" valign="middle">0</td>
+                <td align="center" valign="middle">15.728</td>
+                <td align="center" valign="middle">0.204</td>
+                <td align="center" valign="middle">52.581</td>
+                <td align="center" valign="middle">0.012</td>
+                <td align="center" valign="middle">25.484</td>
+                <td align="center" valign="middle">0.184</td>
+                <td align="center" valign="middle">16.857</td>
+                <td align="center" valign="middle">0.395</td>
+                <td align="center" valign="middle">18.15</td>
+                <td align="center" valign="middle">0.796</td>
+                <td align="center" valign="middle">33.848</td>
+                <td align="center" valign="middle">0.027</td>
+                <td align="center" valign="middle">18.625</td>
+                <td align="center" valign="middle">0.017</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-bottom:solid thin">EA7</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">12.744</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.013</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">24.359</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.227</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">10.01</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.615</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">34.649</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.343</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">26.481</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.151</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">25.4</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.063</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">39.14</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.026</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">25.918</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.169</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">13.306</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.102</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-bottom:solid thin">PA1</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">23.873</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">40.215</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.005</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">30.151</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.003</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">48.19</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.033</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">27.541</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.121</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">11.354</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.787</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">24.69</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.423</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">34.378</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.024</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">19.381</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin">0.013</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>Source: own research.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </app>
+    </app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-wevj-16-00132">
+        <label>1.</label>
+        <element-citation publication-type="web">
+          <article-title>Cars, Planes, Trains: Where Do CO<sub>2</sub> Emissions from Transport Come From?</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ourworldindata.org/co2-emissions-from-transport" ext-link-type="uri">https://ourworldindata.org/co2-emissions-from-transport</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-15">(accessed on 15 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B2-wevj-16-00132">
+        <label>2.</label>
+        <element-citation publication-type="web">
+          <article-title>Transport</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.iea.org/energy-system/transport" ext-link-type="uri">https://www.iea.org/energy-system/transport</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-01">(accessed on 1 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B3-wevj-16-00132">
+        <label>3.</label>
+        <element-citation publication-type="web">
+          <article-title>Guidelines for Promoting Electric Vehicles</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.eppo.go.th/index.php/en/component/k2/item/17415-ev-charging-221064-04" ext-link-type="uri">https://www.eppo.go.th/index.php/en/component/k2/item/17415-ev-charging-221064-04</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-01">(accessed on 1 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B4-wevj-16-00132">
+        <label>4.</label>
+        <element-citation publication-type="web">
+          <article-title>Update on the Global and Thai Electric Vehicle Market Situation in 2024</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.erc.or.th/th/energy-articles/3094" ext-link-type="uri">https://www.erc.or.th/th/energy-articles/3094</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-01">(accessed on 1 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5-wevj-16-00132">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Veza</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Abas</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Djamari</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Tamaldin</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Endrasari</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Budiman</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Idris</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Opia</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Juangsa</surname>
+              <given-names>F.B.</given-names>
+            </name>
+            <name>
+              <surname>Aziz</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electric Vehicles in Malaysia and Indonesia: Opportunities and Challenges</article-title>
+          <source>Energies</source>
+          <year>2022</year>
+          <volume>15</volume>
+          <elocation-id>2564</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/en15072564</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-wevj-16-00132">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>T.T.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>Tu</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>M.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Investigation of Influential Factors of Intention to Adopt Electric Vehicles for Motorcyclists in Vietnam</article-title>
+          <source>Sustainability</source>
+          <year>2023</year>
+          <volume>15</volume>
+          <elocation-id>8765</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/su15118765</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-wevj-16-00132">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Owais</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Location Strategy for Traffic Emission Remote Sensing Monitors to Capture the Violated Emissions</article-title>
+          <source>J. Adv. Transp.</source>
+          <year>2019</year>
+          <volume>2</volume>
+          <fpage>520818</fpage>
+          <pub-id pub-id-type="doi">10.1155/2019/6520818</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-wevj-16-00132">
+        <label>8.</label>
+        <element-citation publication-type="web">
+          <article-title>Trends in Charging Infrastructure</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.iea.org/reports/global-ev-outlook-2023/trends-in-charging-infrastructure?utm_source=chatgpt.com" ext-link-type="uri">https://www.iea.org/reports/global-ev-outlook-2023/trends-in-charging-infrastructure?utm_source=chatgpt.com</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2025-02-05">(accessed on 5 February 2025)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B9-wevj-16-00132">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jamjuntr</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Techawatcharapaikul</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Suanpang</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adaptive Multi-Agent Reinforcement Learning for Optimizing Dynamic Electric Vehicle Charging Networks in Thailand</article-title>
+          <source>World Electr. Veh. J.</source>
+          <year>2024</year>
+          <volume>15</volume>
+          <elocation-id>453</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/wevj15100453</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-wevj-16-00132">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suvittawat</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Suvittawat</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>An Integrated Analysis of Electric Battery Charging Station Selection&#x2014;Thailand Inspired</article-title>
+          <source>World Electr. Veh. J.</source>
+          <year>2024</year>
+          <volume>15</volume>
+          <elocation-id>418</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/wevj15090418</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-wevj-16-00132">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jenn</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Springel</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Gopal</surname>
+              <given-names>A.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effectiveness of electric vehicle incentives in the United States</article-title>
+          <source>Energy Policy</source>
+          <year>2018</year>
+          <volume>119</volume>
+          <fpage>349</fpage>
+          <lpage>356</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.enpol.2018.04.065</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-wevj-16-00132">
+        <label>12.</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kanamori</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Morikawa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of Special Lanes as Incentive Policies for Promoting Electric Vehicles</article-title>
+          <source>Proceedings of the Agent Based Simulation for a Sustainable Society and Multi-Agent Smart Computing (PRIMA 2011)</source>
+          <conf-loc>Wollongong, Australia</conf-loc>
+          <conf-date>16&#x2013;18 November 2011</conf-date>
+        </element-citation>
+      </ref>
+      <ref id="B13-wevj-16-00132">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guerra</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Daziano</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electric vehicles and residential parking in an urban environment: Results from a stated preference experiment</article-title>
+          <source>Transp. Res. Part D Transp. Environ.</source>
+          <year>2020</year>
+          <volume>79</volume>
+          <fpage>102222</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.trd.2020.102222</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-wevj-16-00132">
+        <label>14.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kittner</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Tsiropoulos</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Tarvydas</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Staffell</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Kammen</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electric vehicles</article-title>
+          <source>Technological Learning in the Transition to a Low-Carbon Energy System</source>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>Cambridge, MA, USA</publisher-loc>
+          <year>2020</year>
+          <comment>Chapter 9</comment>
+          <fpage>145</fpage>
+          <lpage>163</lpage>
+          <pub-id pub-id-type="doi">10.1016/B978-0-12-818762-3.00009-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-wevj-16-00132">
+        <label>15.</label>
+        <element-citation publication-type="web">
+          <article-title>Maintenance Costs for EVs vs. ICE Vehicles</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.driveelectrictn.org/maintenance-costs-for-evs-vs-ice-vehicles/" ext-link-type="uri">https://www.driveelectrictn.org/maintenance-costs-for-evs-vs-ice-vehicles/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-15">(accessed on 15 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B16-wevj-16-00132">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McKinney</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Ballantyne</surname>
+              <given-names>E.E.F.</given-names>
+            </name>
+            <name>
+              <surname>Stone</surname>
+              <given-names>D.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rural EV charging: The effects of charging behaviour and electricity tariffs</article-title>
+          <source>Energy Rep.</source>
+          <year>2023</year>
+          <volume>9</volume>
+          <fpage>2321</fpage>
+          <lpage>2334</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.egyr.2023.01.056</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-wevj-16-00132">
+        <label>17.</label>
+        <element-citation publication-type="web">
+          <article-title>How Much Does It Cost to Charge an Electric Car?</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://news.energysage.com/electric-vehicle-charging-cost-vs-gas/" ext-link-type="uri">https://news.energysage.com/electric-vehicle-charging-cost-vs-gas/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-01">(accessed on 1 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B18-wevj-16-00132">
+        <label>18.</label>
+        <element-citation publication-type="web">
+          <article-title>Why Do We Need Vehicle to Grid Technology?</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.elektrobit.com/trends/vehicle-to-grid-technology/" ext-link-type="uri">https://www.elektrobit.com/trends/vehicle-to-grid-technology/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-01">(accessed on 1 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B19-wevj-16-00132">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>White</surname>
+              <given-names>L.V.</given-names>
+            </name>
+            <name>
+              <surname>Sintov</surname>
+              <given-names>N.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>You are what you drive: Environmentalist and social innovator symbolism drives electric vehicle adoption intentions</article-title>
+          <source>Transp. Res. Part A Policy Pract.</source>
+          <year>2017</year>
+          <volume>99</volume>
+          <fpage>94</fpage>
+          <lpage>113</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tra.2017.03.008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-wevj-16-00132">
+        <label>20.</label>
+        <element-citation publication-type="web">
+          <article-title>Benefits of Electric Cars on the Environment</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.edfenergy.com/energywise/electric-cars-and-environment" ext-link-type="uri">https://www.edfenergy.com/energywise/electric-cars-and-environment</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-10">(accessed on 10 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B21-wevj-16-00132">
+        <label>21.</label>
+        <element-citation publication-type="web">
+          <article-title>Study Links Adoption of Electric Vehicles with Less Air Pollution and Improved Health</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/" ext-link-type="uri">https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-10">(accessed on 10 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B22-wevj-16-00132">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Gu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Ji</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electric vehicle adoption and local PM2.5 reduction: Evidence from China</article-title>
+          <source>J. Clean. Prod.</source>
+          <year>2023</year>
+          <volume>396</volume>
+          <fpage>136508</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.jclepro.2023.136508</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-wevj-16-00132">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Skipper</surname>
+              <given-names>T.N.</given-names>
+            </name>
+            <name>
+              <surname>Lawal</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>A.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Air quality impacts of electric vehicle adoption in California</article-title>
+          <source>Atmos. Environ.</source>
+          <year>2023</year>
+          <volume>294</volume>
+          <fpage>119492</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.atmosenv.2022.119492</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-wevj-16-00132">
+        <label>24.</label>
+        <element-citation publication-type="web">
+          <article-title>How Electric Vehicles Lead to the End of Traffic Noise Pollution</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://medium.com/age-of-awareness/how-electric-vehicles-lead-to-the-end-of-traffic-noise-pollution-adecdb4c8b44" ext-link-type="uri">https://medium.com/age-of-awareness/how-electric-vehicles-lead-to-the-end-of-traffic-noise-pollution-adecdb4c8b44</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-12-10">(accessed on 10 December 2024)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B25-wevj-16-00132">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pietras</surname>
+              <given-names>C.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rule-Governed Behavior and Climate Change: Why Climate Warnings Fail to Motivate Sufficient Action</article-title>
+          <source>Behav. Soc. Issues</source>
+          <year>2022</year>
+          <volume>31</volume>
+          <fpage>373</fpage>
+          <lpage>417</lpage>
+          <pub-id pub-id-type="doi">10.1007/s42822-022-00109-y</pub-id>
+          <pub-id pub-id-type="pmid">38013765</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-wevj-16-00132">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pradeep</surname>
+              <given-names>V.H.</given-names>
+            </name>
+            <name>
+              <surname>Amshala</surname>
+              <given-names>V.T.</given-names>
+            </name>
+            <name>
+              <surname>Kadali</surname>
+              <given-names>B.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Does perceived technology and knowledge of maintenance influence purchase intention of BEVs</article-title>
+          <source>Transp. Res. Part D Transp. Environ.</source>
+          <year>2021</year>
+          <volume>93</volume>
+          <fpage>102759</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.trd.2021.102759</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-wevj-16-00132">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>X.Y.</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>Y.X.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L.X.</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>What influences personal purchases of new energy vehicles in China? An empirical study based on a survey of Chinese citizens</article-title>
+          <source>J. Renew. Sustain. Energy</source>
+          <year>2016</year>
+          <volume>8</volume>
+          <fpage>065904</fpage>
+          <pub-id pub-id-type="doi">10.1063/1.4966908</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-wevj-16-00132">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shalender</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Using extended theory of planned behaviour (TPB) to predict adoption intention of electric vehicles in India</article-title>
+          <source>Environ. Dev. Sustain.</source>
+          <year>2021</year>
+          <volume>23</volume>
+          <fpage>665</fpage>
+          <lpage>681</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10668-020-00602-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-wevj-16-00132">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferguson</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mohamed</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Higgins</surname>
+              <given-names>C.D.</given-names>
+            </name>
+            <name>
+              <surname>Abotalebi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kanaroglou</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>How open are Canadian households to electric vehicles? A national latent class choice analysis with willingness-to-pay and metropolitan characterization</article-title>
+          <source>Transp. Res. Part D Transp. Environ.</source>
+          <year>2018</year>
+          <volume>58</volume>
+          <fpage>208</fpage>
+          <lpage>224</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.trd.2017.12.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-wevj-16-00132">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rahmani</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Loureiro</surname>
+              <given-names>M.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessing drivers&#x2019; preferences for hybrid electric vehicles (HEV) in Spain</article-title>
+          <source>Res. Transp. Econ.</source>
+          <year>2019</year>
+          <volume>73</volume>
+          <fpage>89</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.retrec.2018.10.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31-wevj-16-00132">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Irfan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Relating consumers&#x2019; information and willingness to buy electric vehicles: Does personality matter?</article-title>
+          <source>Transp. Res. Part D Transp. Environ.</source>
+          <year>2021</year>
+          <volume>100</volume>
+          <fpage>103049</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.trd.2021.103049</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-wevj-16-00132">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bernardi</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Validating Research Results when Cronbach&#x2019;s Alpha is Below .70: A Methodological Procedure</article-title>
+          <source>Educ. Psychol. Meas.</source>
+          <year>1994</year>
+          <volume>54</volume>
+          <fpage>766</fpage>
+          <lpage>775</lpage>
+          <pub-id pub-id-type="doi">10.1177/0013164494054003023</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-wevj-16-00132">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kongklaew</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Phoungthong</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Prabpayak</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Chowdhury</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Yuangyai</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Yuangyai</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Techato</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Barriers to Electric Vehicle Adoption in Thailand</article-title>
+          <source>Sustainability</source>
+          <year>2021</year>
+          <volume>13</volume>
+          <elocation-id>12839</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/su132212839</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-wevj-16-00132">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coffman</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bernstein</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Wee</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electric vehicles revisited: A review of factors that affect adoption</article-title>
+          <source>Transp. Rev.</source>
+          <year>2017</year>
+          <volume>37</volume>
+          <fpage>79</fpage>
+          <lpage>93</lpage>
+          <pub-id pub-id-type="doi">10.1080/01441647.2016.1217282</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Tables</title>
+      <fig id="wevj-16-00132-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>CO<sub>2</sub> emission from energy consumption by sector. Source: <uri>https://www.eppo.go.th/index.php/th/energy-information/static-energy/static-co2?orders[publishUp]=publishUp&amp;issearch=1</uri> (accessed on 15 December 2024).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="wevj-16-00132-g001.tif"/>
+      </fig>
+      <fig id="wevj-16-00132-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Number of registered vehicles in Thailand. Source: <uri>https://web.dlt.go.th/statistics/</uri> (accessed on 15 December 2024).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="wevj-16-00132-g002.tif"/>
+      </fig>
+      <table-wrap id="wevj-16-00132-t001" position="float">
+        <object-id pub-id-type="pii">wevj-16-00132-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Supporting factors for EV adoption, selected from literature for analysis.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Supporting Factor Type</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Code</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Actual Factor</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Explanation</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="8" align="center" valign="middle" style="border-bottom:solid thin">Motivator driving EV</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ME1</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV gets tax refund</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Financial incentives offered by governments to promote electric vehicle adoption. </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ME2</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV has special lane</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">The special lanes created to incentivize the adoption of electric vehicles.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ME3</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV has exempted parking fees</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">The owners of these vehicles are not required to pay parking charges or fees.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ME4</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV gets toll free</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">The owners of these vehicles are exempt from paying tolls or fees that are typically required to use certain roads, bridges, tunnels, or express lanes.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ME5</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV has maintenance cost less than ICEV</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">The expenses incurred to keep the vehicle in good working condition and ensure its reliability, safety, and performance over time.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ME6</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV gets charging price less than household electricity</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">The cost associated with recharging the vehicle&#x2019;s battery compared to household electricity prices.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ME7</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV charging cost is cheaper than ICEV fuel cost</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Comparing the cost of recharging an electric vehicle&#x2019;s battery to the expense of gasoline.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ME8</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV can do vehicle-to-grid</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">The new technology for transferring electricity from electric vehicle batteries into the main electrical grid.</td>
+            </tr>
+            <tr>
+              <td rowspan="7" align="center" valign="middle" style="border-bottom:solid thin">Environmental Awareness</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EA1</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Climate change harming yourself and your family</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">The awareness of the dangers arising from current climate change.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EA2</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Air pollution affect</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Benefits of using EVs to reduce air pollution problems.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EA3</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">More environmental concern</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Environmental concern or worry.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EA4</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Adapt behavior for global warming and environment</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Changing behavior for a better future.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EA5</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV helps GHG emission</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Benefits of using EVs to reduce oil consumption, which in turn affects greenhouse gas emissions.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EA6</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV reduces noise pollution</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Reducing the problem of loud engine noise from using conventional cars.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EA7</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EV reduces air pollution</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Replacing ICE with EVs reduces the combustion of fossil fuels, which affects emissions into the air.</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Public acceptance</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">PA1</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Willingness to buy</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Intention to purchase based on various personal factors, such as age, income, marital status, and more.</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="wevj-16-00132-t002" position="float">
+        <object-id pub-id-type="pii">wevj-16-00132-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Respondent demographics.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Demographic</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Item</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Percentage</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="2" align="left" valign="middle" style="border-bottom:solid thin">Gender</td>
+              <td align="left" valign="middle">Male</td>
+              <td align="center" valign="middle">60.3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Female</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">39.7</td>
+            </tr>
+            <tr>
+              <td rowspan="5" align="left" valign="middle" style="border-bottom:solid thin">Age</td>
+              <td align="left" valign="middle">Under 25 years</td>
+              <td align="center" valign="middle">7.2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">26&#x2013;35 years</td>
+              <td align="center" valign="middle">53.4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">36&#x2013;45 years</td>
+              <td align="center" valign="middle">23.5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">46&#x2013;55 years</td>
+              <td align="center" valign="middle">12</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Over 56 years</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3.9</td>
+            </tr>
+            <tr>
+              <td rowspan="3" align="left" valign="middle" style="border-bottom:solid thin">Educational background</td>
+              <td align="left" valign="middle">Diploma/College</td>
+              <td align="center" valign="middle">7.2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Bachelor&#x2019;s</td>
+              <td align="center" valign="middle">88.7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Master&#x2019;s or higher</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">4.1</td>
+            </tr>
+            <tr>
+              <td rowspan="5" align="left" valign="middle" style="border-bottom:solid thin">Occupation</td>
+              <td align="left" valign="middle">Government official/state enterprise employee</td>
+              <td align="center" valign="middle">26.6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Company employee/employee</td>
+              <td align="center" valign="middle">43.6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Self-employed/merchant</td>
+              <td align="center" valign="middle">18.3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Student</td>
+              <td align="center" valign="middle">6.8</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Other</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">4.8</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="middle" style="border-bottom:solid thin">Family size</td>
+              <td align="left" valign="middle">1&#x2013;2 persons</td>
+              <td align="center" valign="middle">24.6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Over 3 persons</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">75.4</td>
+            </tr>
+            <tr>
+              <td rowspan="3" align="left" valign="middle" style="border-bottom:solid thin">Car ownership</td>
+              <td align="left" valign="middle">None</td>
+              <td align="center" valign="middle">15.3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">1&#x2013;2 cars</td>
+              <td align="center" valign="middle">70.4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Over 3 cars</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">14.4</td>
+            </tr>
+            <tr>
+              <td rowspan="4" align="left" valign="middle" style="border-bottom:solid thin">Driving experience</td>
+              <td align="left" valign="middle">None</td>
+              <td align="center" valign="middle">9.8</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">0&#x2013;3 years</td>
+              <td align="center" valign="middle">16.6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">3&#x2013;5 years</td>
+              <td align="center" valign="middle">10.9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Over 5 years</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">62.7</td>
+            </tr>
+            <tr>
+              <td rowspan="6" align="left" valign="middle" style="border-bottom:solid thin">Monthly income</td>
+              <td align="left" valign="middle">Under THB 15,000</td>
+              <td align="center" valign="middle">10.9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">THB 15,000&#x2013;25,000</td>
+              <td align="center" valign="middle">26.4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">THB 25,001&#x2013;35,000</td>
+              <td align="center" valign="middle">17.6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">THB 35,001&#x2013;45,000</td>
+              <td align="center" valign="middle">10.2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">THB 45,001&#x2013;55,000</td>
+              <td align="center" valign="middle">10.5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Over THB 55,001</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">24.4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">N = 459</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Source: own research.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="wevj-16-00132-t003" position="float">
+        <object-id pub-id-type="pii">wevj-16-00132-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Reliability of questionnaires among motivators and environmental awareness.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variables</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Items</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Cronbach&#x2019;s Alpha</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Motivators</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">ME1, ME2, ME3, ME4, ME5, ME6, ME7, ME8</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.868</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Environmental awareness</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">EN1, EN2, EN3, EN4, EN5, EN6, EN7</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.909</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Purchase intention</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">PA1</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.873</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Source: own research.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="wevj-16-00132-t004" position="float">
+        <object-id pub-id-type="pii">wevj-16-00132-t004_Table 4</object-id>
+        <label>Table 4</label>
+        <caption>
+          <p>Descriptive analysis of motivators and environmental awareness regarding EV adoption.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Factors</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Code</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Min</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Max</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Mean &#xB1; SD</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Rank</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="8" align="center" valign="middle" style="border-bottom:solid thin">Motivator</td>
+              <td align="center" valign="middle">ME1</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.29 &#xB1; 0.992</td>
+              <td align="center" valign="middle">1</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">ME7</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.23 &#xB1; 0.969</td>
+              <td align="center" valign="middle">2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">ME5</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.19 &#xB1; 0.958</td>
+              <td align="center" valign="middle">3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">ME6</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.05 &#xB1; 1.097</td>
+              <td align="center" valign="middle">4</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">ME8</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">3.84 &#xB1; 1.172</td>
+              <td align="center" valign="middle">5</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">ME1</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">3.78 &#xB1; 1.260</td>
+              <td align="center" valign="middle">6</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">ME3</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">3.73 &#xB1; 1.232</td>
+              <td align="center" valign="middle">7</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ME2</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">5</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3.58 &#xB1; 1.213</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">8</td>
+            </tr>
+            <tr>
+              <td rowspan="7" align="center" valign="middle" style="border-bottom:solid thin">Environment</td>
+              <td align="center" valign="middle">EA4</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.41 &#xB1; 0.885</td>
+              <td align="center" valign="middle">1</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">EA7</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.41 &#xB1; 0.883</td>
+              <td align="center" valign="middle">2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">EA3</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.35 &#xB1; 0.956</td>
+              <td align="center" valign="middle">3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">EA6</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.33 &#xB1; 0.917</td>
+              <td align="center" valign="middle">4</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">EA2</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.31 &#xB1; 0.964</td>
+              <td align="center" valign="middle">5</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">EA5</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">4.31 &#xB1; 0.916</td>
+              <td align="center" valign="middle">6</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EA1</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">5</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">4.17 &#xB1; 1.040</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">7</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Source: own research.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
