@@ -1,0 +1,229 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{italian}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Salute mentale e cambiamento climatico: impatti e strategie di adattamento},
+  pdfauthor={Damon Bianchi},
+  pdflang={it},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Salute mentale e cambiamento climatico: impatti e strategie di
+adattamento}
+\author{Damon Bianchi}
+\date{2025-07-04}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Il cambiamento climatico influisce sulla salute mentale attraverso
+stress ambientale, insicurezza alimentare e condizioni socio-economiche
+precarie. La sintesi presenta tre studi principali: 1. Navigating
+psychosocial dimensions, che esamina come le strategie di adattamento
+influenzino il benessere. 2. Strategies for resilience, che propone
+interventi per mitigare fame e salute mentale. 3. Locating the built
+environment, una revisione globale sull'impatto dell'ambiente costruito
+sulla salute mentale.
+\end{abstract}
+
+\section{Impatto psicologico del cambiamento climatico: strategie di
+adattamento e
+benessere}\label{impatto-psicologico-del-cambiamento-climatico-strategie-di-adattamento-e-benessere}
+
+Il cambiamento climatico rappresenta una sfida complessa che va oltre
+gli effetti ambientali, toccando profondamente la salute mentale e il
+benessere delle persone. L'articolo di Stacey C. Heath (Heath 2025)
+esplora come le strategie di adattamento adottate dalle comunità e dagli
+individui possano influenzare non solo la capacità di far fronte agli
+impatti climatici, ma anche lo stato psicologico e sociale delle persone
+coinvolte.
+
+Gli eventi climatici estremi, la perdita di risorse naturali e le
+trasformazioni socioeconomiche collegate al cambiamento climatico
+possono generare stress prolungato, ansia e senso di incertezza. Heath
+sottolinea che un approccio efficace all'adattamento deve quindi
+integrare non solo misure tecniche o infrastrutturali, ma anche
+interventi che rafforzino la resilienza psicologica e il supporto
+sociale.
+
+In particolare, l'autrice invita a superare la tradizionale separazione
+tra strategie ambientali e benessere umano, promuovendo una visione
+integrata che tenga conto delle interconnessioni tra condizioni
+ambientali, fattori sociali e dimensioni psicosociali. Solo attraverso
+questa prospettiva olistica è possibile sviluppare politiche e programmi
+che migliorino la qualità della vita nelle comunità più vulnerabili,
+garantendo un benessere sostenibile nel lungo termine.
+
+In sintesi, l'articolo mette in luce l'importanza di considerare le
+dimensioni emotive e sociali nel progettare strategie di adattamento al
+cambiamento climatico, affinché queste possano contribuire efficacemente
+a mitigare gli effetti negativi sulla salute mentale e promuovere la
+resilienza collettiva.
+
+\section{Strategie di resilienza per mitigare gli effetti del
+cambiamento climatico su fame e salute
+mentale}\label{strategie-di-resilienza-per-mitigare-gli-effetti-del-cambiamento-climatico-su-fame-e-salute-mentale}
+
+Il cambiamento climatico non influisce solo sull'ambiente, ma ha
+conseguenze dirette e indirette sulla sicurezza alimentare e sulla
+salute mentale delle popolazioni più vulnerabili. Questo articolo
+analizza le strategie di resilienza volte a ridurre l'impatto della
+crisi climatica su fame e benessere psicologico.
+
+Gli autori (Mezieobi et al. 2025) evidenziano come la crescente
+insicurezza alimentare, dovuta a eventi climatici estremi e alla perdita
+di produttività agricola, aggravi lo stress psicologico, aumentando i
+rischi di ansia, depressione e altre problematiche legate alla salute
+mentale. La fame e la malnutrizione diventano quindi fattori di rischio
+per il benessere mentale, creando un circolo vizioso difficile da
+interrompere.
+
+Per contrastare questi effetti, l'articolo propone un approccio
+multidimensionale che include interventi mirati a: - migliorare la
+sicurezza alimentare attraverso pratiche agricole sostenibili e
+diversificate; - rafforzare le reti di supporto sociale e comunitario; -
+promuovere programmi di assistenza psicologica nelle aree colpite da
+crisi alimentari e climatiche.
+
+In conclusione, la resilienza efficace richiede politiche integrate che
+affrontino simultaneamente le sfide ambientali, alimentari e
+psicosociali, al fine di tutelare sia la sopravvivenza fisica sia il
+benessere mentale delle comunità esposte ai cambiamenti climatici.
+
+\section{Il ruolo dell'ambiente costruito nei modelli empirici su
+cambiamento climatico e salute mentale: protocollo di una revisione
+globale}\label{il-ruolo-dellambiente-costruito-nei-modelli-empirici-su-cambiamento-climatico-e-salute-mentale-protocollo-di-una-revisione-globale}
+
+Questo articolo (McCall et al. 2025)presenta il protocollo per una
+revisione sistematica volta a mappare come l'ambiente costruito ---
+ovvero gli spazi fisici e le infrastrutture create dall'uomo --- sia
+integrato nei modelli empirici che studiano le relazioni tra cambiamento
+climatico e salute mentale.
+
+Il lavoro si propone di analizzare la letteratura scientifica globale
+per identificare le modalità con cui fattori legati all'ambiente
+costruito, come la progettazione urbana, la qualità degli edifici e la
+pianificazione territoriale, influenzano gli impatti psicologici e
+psicosociali associati ai cambiamenti climatici.
+
+L'obiettivo è fornire una base conoscitiva che aiuti a comprendere come
+l'adattamento climatico e la mitigazione possano essere supportati da
+interventi sul built environment per migliorare il benessere mentale
+nelle comunità più vulnerabili.
+
+Questa revisione permetterà di evidenziare lacune e potenziali aree di
+sviluppo nella ricerca, facilitando la creazione di strategie integrate
+che considerino sia i fattori ambientali che quelli sociali nella lotta
+agli effetti negativi del cambiamento climatico sulla salute mentale.
+
+\phantomsection\label{refs}
+\begin{CSLReferences}{1}{0}
+\bibitem[\citeproctext]{ref-heath2025navigating}
+Heath, Stacey C. 2025. {«Navigating psychosocial dimensions:
+understanding the intersections of adaptation strategies and well-being
+outcomes in the context of climate change»}. \emph{Current Opinion in
+Environmental Sustainability} 72: 101493.
+
+\bibitem[\citeproctext]{ref-mccall2025locating}
+McCall, Hannah, James McGowan, Sarah O'Connor, John McGowan, e Brian
+O'Neill. 2025. {«Locating the built environment within existing
+empirical models of climate change and mental health: protocol for a
+global systematic scoping review»}. \emph{BMJ Open} 15 (4): e093222.
+
+\bibitem[\citeproctext]{ref-mezieobi2025strategies}
+Mezieobi, Kelechi Chinemerem, Esther Ugo Alum, Chukwuoyims Kevin Egwu,
+Daniel Ejim Uti, Benedict Nnachi Alum, Ainebyoona Christine, e Omuna
+Daniel. 2025. {«Strategies for Resilience: Mitigating the Effects of
+Climate Change on Hunger and Mental Health»}. \emph{Journal of
+Agriculture and Food Research}, 102023.
+
+\end{CSLReferences}
+
+\end{document}

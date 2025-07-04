@@ -1,0 +1,1 @@
+pandoc -s articolo_completo.md --bibliography=bibliografia.bib --citeproc --metadata-file=metadati.yaml  -o articolo_completo.tex

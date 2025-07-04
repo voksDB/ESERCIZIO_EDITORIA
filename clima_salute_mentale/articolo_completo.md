@@ -1,10 +1,8 @@
-
-
 # Impatto psicologico del cambiamento climatico: strategie di adattamento e benessere
 
 Il cambiamento climatico rappresenta una sfida complessa che va oltre
 gli effetti ambientali, toccando profondamente la salute mentale e il
-benessere delle persone. L'articolo di Stacey C. Heath esplora come le
+benessere delle persone. L'articolo di Stacey C. Heath [@heath2025navigating] esplora come le
 strategie di adattamento adottate dalle comunità e dagli individui
 possano influenzare non solo la capacità di far fronte agli impatti
 climatici, ma anche lo stato psicologico e sociale delle persone
@@ -40,7 +38,7 @@ salute mentale delle popolazioni più vulnerabili. Questo articolo
 analizza le strategie di resilienza volte a ridurre l'impatto della
 crisi climatica su fame e benessere psicologico.
 
-Gli autori evidenziano come la crescente insicurezza alimentare, dovuta
+Gli autori [@mezieobi2025strategies] evidenziano come la crescente insicurezza alimentare, dovuta
 a eventi climatici estremi e alla perdita di produttività agricola,
 aggravi lo stress psicologico, aumentando i rischi di ansia, depressione
 e altre problematiche legate alla salute mentale. La fame e la
@@ -61,7 +59,7 @@ benessere mentale delle comunità esposte ai cambiamenti climatici.
 
 # Il ruolo dell'ambiente costruito nei modelli empirici su cambiamento climatico e salute mentale: protocollo di una revisione globale
 
-Questo articolo presenta il protocollo per una revisione sistematica
+Questo articolo [@mccall2025locating]presenta il protocollo per una revisione sistematica
 volta a mappare come l'ambiente costruito --- ovvero gli spazi fisici e
 le infrastrutture create dall'uomo --- sia integrato nei modelli
 empirici che studiano le relazioni tra cambiamento climatico e salute
