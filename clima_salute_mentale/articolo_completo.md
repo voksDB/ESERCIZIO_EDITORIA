@@ -1,11 +1,13 @@
+# Salute mentale e cambiamento climatico: impatti e strategie di adattamento
 
+## Il ruolo dell'ambiente costruito nei modelli empirici su cambiamento climatico e salute mentale
 
+[Navigating Psychosocial Dimensions](https://www.sciencedirect.com/science/article/pii/S1877343524000800)
 
-# Impatto psicologico del cambiamento climatico: strategie di adattamento e benessere
 
 Il cambiamento climatico rappresenta una sfida complessa che va oltre
 gli effetti ambientali, toccando profondamente la salute mentale e il
-benessere delle persone. L'articolo di Stacey C. Heath [@heath2025navigating] esplora come le
+benessere delle persone. L'articolo di Stacey C. Heath  esplora come le
 strategie di adattamento adottate dalle comunità e dagli individui
 possano influenzare non solo la capacità di far fronte agli impatti
 climatici, ma anche lo stato psicologico e sociale delle persone
@@ -33,7 +35,13 @@ cambiamento climatico, affinché queste possano contribuire efficacemente
 a mitigare gli effetti negativi sulla salute mentale e promuovere la
 resilienza collettiva.
 
-# Strategie di resilienza per mitigare gli effetti del cambiamento climatico su fame e salute mentale
+[@heath2025navigating]
+
+
+## Strategie di resilienza per mitigare gli effetti del cambiamento climatico sulla salute mentale
+
+[Strategies for Resilience](https://www.sciencedirect.com/science/article/pii/S2666154325003941)
+
 
 Il cambiamento climatico non influisce solo sull'ambiente, ma ha
 conseguenze dirette e indirette sulla sicurezza alimentare e sulla
@@ -41,7 +49,7 @@ salute mentale delle popolazioni più vulnerabili. Questo articolo
 analizza le strategie di resilienza volte a ridurre l'impatto della
 crisi climatica su fame e benessere psicologico.
 
-Gli autori di [@mezieobi2025strategies] evidenziano come la crescente insicurezza alimentare, dovuta
+Gli autori  evidenziano come la crescente insicurezza alimentare, dovuta
 a eventi climatici estremi e alla perdita di produttività agricola,
 aggravi lo stress psicologico, aumentando i rischi di ansia, depressione
 e altre problematiche legate alla salute mentale. La fame e la
@@ -60,9 +68,14 @@ affrontino simultaneamente le sfide ambientali, alimentari e
 psicosociali, al fine di tutelare sia la sopravvivenza fisica sia il
 benessere mentale delle comunità esposte ai cambiamenti climatici.
 
-# Il ruolo dell'ambiente costruito nei modelli empirici su cambiamento climatico e salute mentale: protocollo di una revisione globale
+[@mezieobi2025strategies]
 
-Questo articolo [@mccall2025locating] presenta il protocollo per una revisione sistematica
+
+## Impatto psicologico del cambiamento climatico: strategie di adattamento e benessere
+
+[Locating the built environment](https://www.sciencedirect.com/science/article/pii/S1877343524000800)
+
+Questo articolo presenta il protocollo per una revisione sistematica
 volta a mappare come l'ambiente costruito --- ovvero gli spazi fisici e
 le infrastrutture create dall'uomo --- sia integrato nei modelli
 empirici che studiano le relazioni tra cambiamento climatico e salute
@@ -83,3 +96,5 @@ Questa revisione permetterà di evidenziare lacune e potenziali aree di
 sviluppo nella ricerca, facilitando la creazione di strategie integrate
 che considerino sia i fattori ambientali che quelli sociali nella lotta
 agli effetti negativi del cambiamento climatico sulla salute mentale.
+
+ [@mccall2025locating]
