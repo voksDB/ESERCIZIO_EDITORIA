@@ -1,6 +1,6 @@
-senza template: 
+# senza template: 
 pandoc -s articolo_completo.md --bibliography=bibliografia.bib --citeproc --metadata-file=metadati.yaml  -o articolo_completo.tex
 
-con template: 
+# con template: 
 pandoc documento.md -o output.pdf --template=template.tex --citeproc
 pandoc articolo_completo.md -o output.pdf --metadata-file=metadati.yaml --template=template.tex --citeproc
