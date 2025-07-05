@@ -1,0 +1,3 @@
+[submodule "ediNews"]
+	path = ediNews
+	url = https://github.com/voksDB/sito_hugo_editoria
