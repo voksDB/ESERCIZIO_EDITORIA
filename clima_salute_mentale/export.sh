@@ -21,9 +21,9 @@ pandoc -s "$MD_FILE" \
 
 # Verifica se il .tex è stato creato
 if [ -f "$TEX_FILE" ]; then
-  echo "✅ File TeX generato con successo: $TEX_FILE"
+  echo "File TeX generato con successo: $TEX_FILE"
 else
-  echo "❌ Errore nella generazione del file TeX"
+  echo "Errore nella generazione del file TeX"
   exit 1
 fi
 
